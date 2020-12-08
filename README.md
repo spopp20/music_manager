@@ -2,6 +2,8 @@
 
 Created with next.js, react.js and the example template next.js/examples/with-passport-and-next-connect
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79940108-4464-43ab-951a-7e33af7417e6/deploy-status)](https://app.netlify.com/sites/music-manager-net/deploys)
+
 
 
 
@@ -17,9 +19,13 @@ In production, you must use a password hashing library, such as [argon2](https:/
 
 ## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com):
-
+Deploy using [Vercel](https://vercel.com): 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/spopp20/music_manager)
+
+Deploy using [Netlify](https://netlify.com)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/spopp20/music_manager&utm_source=github)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79940108-4464-43ab-951a-7e33af7417e6/deploy-status)](https://app.netlify.com/sites/music-manager-net/deploys)
 
 ## How to use the template
 
