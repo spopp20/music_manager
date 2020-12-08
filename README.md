@@ -2,10 +2,6 @@
 
 Created with next.js, react.js and the example template next.js/examples/with-passport-and-next-connect
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/79940108-4464-43ab-951a-7e33af7417e6/deploy-status)](https://app.netlify.com/sites/music-manager-net/deploys)
-
-
-
 
 # next-connect and Passport
 
