@@ -7,9 +7,9 @@ Created with next.js, react.js and the example template next.js/examples/with-pa
 
 This example creates a basic [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) app using [next-connect](https://github.com/hoangvvo/next-connect) and cookie-based authentication with [Passport.js](http://www.passportjs.org/). The cookie is securely encrypted using [@hapi/iron](https://github.com/hapijs/iron).
 
-The example shows how to do a sign up, login, logout, and account deactivation. It utilizes [SWR](https://swr.now.sh/) to fetch the API.
+The example shows how to do a sign up, login, logout, and account deactivation. It utilizes the cache [SWR](https://swr.now.sh/) to fetch the API.
 
-For demo purpose, the users database is stored in the cookie session. You need to replace it with an actual database to store users in [db.js](lib/db.js).
+For demo purpose, the users database is stored in the cookie session. You need to replace the cookie storage with an actual database to store users in [lib/db.js](lib/db.js).
 
 In production, you must use a password hashing library, such as [argon2](https://github.com/ranisalt/node-argon2) or [bcrypt](https://www.npmjs.com/package/bcrypt).
 
@@ -85,3 +85,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+## Environment Variables
+
+The following files should be in the .gitignore to keep secret information secret.
+
+| File | Purpose |
+|---|---|
+| .env | Provides defaults for all environments |
+| .env.local | Store secret evironment variables that overrides other files |
+| .env.development | Defaults for development `next dev` runs |
+| .env.production | Defaults for production `next start` runs |
+
+Do not commit a .env file or any file that starts with .env and ends with .local.
+
+Copy .env.example variables into your .env.local file and then fix to us actual information that will remain secret and never be added to Github.
