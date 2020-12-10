@@ -1,4 +1,4 @@
-export default function Songs() {
+export default function SongsPage() {
 
   return (
     <>

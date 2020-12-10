@@ -1,5 +1,4 @@
 import { useUser, fetcher } from '../lib/hooks'
-import { connectToDatabase } from '../util/mongodb'
 import useSWR from 'swr'
 
 function UserList() {
@@ -18,23 +17,13 @@ function UserList() {
   )
 }
 
-export default function HomePage({ isConnected }) {
+export default function HomePage() {
   const [user] = useUser()
   return (
     <>
       <h1>
         Example User Pages
       </h1>
-      
-
-      {isConnected ? (
-        <h2 className="subtitle">You are connected to MongoDB</h2>
-      ) : (
-        <h2 className="subtitle">
-          You are NOT connected to MongoDB. Check the <code>README.md</code>{' '}
-          for instructions.
-        </h2>
-      )}
 
       <ol>
         <li>Now all API has to change to use MongoDB</li>
@@ -79,14 +68,4 @@ export default function HomePage({ isConnected }) {
       `}</style>
     </>
   )
-}
-
-export async function getServerSideProps(context) {
-  const { client } = await connectToDatabase()
-
-  const isConnected = await client.isConnected() // Returns true or false
-
-  return {
-    props: { isConnected },
-  }
 }

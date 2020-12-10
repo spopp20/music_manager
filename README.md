@@ -2,6 +2,48 @@
 
 Created with next.js, react.js and the example template next.js/examples/with-passport-and-next-connect
 
+## Install and run:
+
+```bash
+npm install
+npm run dev
+# or
+yarn
+yarn dev
+```
+
+## Configuration
+
+### Step 1. Get the connection string of your MongoDB server
+
+In the case of MongoDB Atlas, it should be a string like this:
+
+```
+mongodb+srv://<username>:<password>@my-project-abc123.mongodb.net/test?retryWrites=true&w=majority
+```
+
+For more details, follow this [MongoDB Guide](https://docs.mongodb.com/guides/server/drivers/) on how to connect to MongoDB.
+
+### Step 2. Set up environment variables
+
+Copy the `.env.local.example` file in this directory to `.env.local` (which will be ignored by Git):
+
+```bash
+cp .env.local.example .env.local
+```
+
+Then set each variable on `.env.local`:
+
+- `MONGODB_URI` should be the MongoDB connection string you got from step 1.
+
+
+### Step 3. Run Next.js in development mode
+
+```bash
+npm install
+npm run dev
+```
+
 
 # next-connect and Passport
 
@@ -100,3 +142,12 @@ The following files should be in the .gitignore to keep secret information secre
 Do not commit a .env file or any file that starts with .env and ends with .local.
 
 Copy .env.example variables into your .env.local file and then fix to us actual information that will remain secret and never be added to Github.
+
+## Testing a new API
+
+MongoDB collections are similar to a database table, but can contain JSON data. 
+Collections are named in lower case and are plural such as "instruments"
+ 
+Use the browser default GET function locally retrieve raw JSON results.
+
+[http://localhost:3000/api/instruments](http://localhost:3000/api/instruments)

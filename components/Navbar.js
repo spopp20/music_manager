@@ -8,7 +8,7 @@ export default function Navbar() {
     await fetch('/api/logout')
     mutate({ user: null })
   }
-
+  
   return (
     <header>
       <nav>
@@ -66,7 +66,7 @@ export default function Navbar() {
         nav {
           max-width: 42rem;
           margin: 0 auto;
-          padding: 0.2rem 1.25rem;
+          padding: 0.2rem 1.0rem;
         }
         ul {
           display: flex;
