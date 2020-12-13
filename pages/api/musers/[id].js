@@ -1,5 +1,5 @@
 import dbConnect from '../../../middleware/dbConnect'
-import Instrument from '../../../models/Instrument'
+import User from '../../../models/User'
 
 export default async function handler(req, res) {
   const {
@@ -12,11 +12,11 @@ export default async function handler(req, res) {
   switch (method) {
     case 'GET' /* Get a model by its ID */:
       try {
-        const instrument = await Instrument.findById(id)
-        if (!instrument) {
+        const user = await User.findById(id)
+        if (!user) {
           return res.status(400).json({ success: false })
         }
-        res.status(200).json({ success: true, data: instrument })
+        res.status(200).json({ success: true, data: user })
       } catch (error) {
         res.status(400).json({ success: false })
       }
@@ -24,14 +24,14 @@ export default async function handler(req, res) {
 
     case 'PUT' /* Edit a model by its ID */:
       try {
-        const instrument = await Instrument.findByIdAndUpdate(id, req.body, {
+        const user = await User.findByIdAndUpdate(id, req.body, {
           new: true,
           runValidators: true,
         })
-        if (!instrument) {
+        if (!user) {
           return res.status(400).json({ success: false })
         }
-        res.status(200).json({ success: true, data: instrument })
+        res.status(200).json({ success: true, data: user })
       } catch (error) {
         res.status(400).json({ success: false })
       }
@@ -39,8 +39,8 @@ export default async function handler(req, res) {
 
     case 'DELETE' /* Delete a model by its ID */:
       try {
-        const deletedInstrument = await Instrument.deleteOne({ _id: id })
-        if (!deletedInstrument) {
+        const deletedUser = await User.deleteOne({ _id: id })
+        if (!deletedUser) {
           return res.status(400).json({ success: false })
         }
         res.status(200).json({ success: true, data: {} })

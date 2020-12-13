@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import dbConnect from '../utils/dbConnect'
+import dbConnect from '../middleware/dbConnect'
 import Instrument from '../models/Instrument'
 
 
@@ -36,8 +36,7 @@ export async function getServerSideProps() {
 
   const result = await Instrument.find({})
   const instruments = result.map((doc) => {
-    // Mongoose result is doc
-    // toObject() converts the result to an Obnect
+    // Mongoose result is doc and toObject() converts result to an Obnect
     const instrument = doc.toObject()
     instrument._id = instrument._id.toString()
     return instrument

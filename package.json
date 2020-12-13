@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@hapi/iron": "6.0.0",
+    "argon2": "^0.27.1",
     "cookie": "0.4.0",
     "dotenv": "^8.2.0",
     "mongoose": "^5.11.6",

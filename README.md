@@ -1,32 +1,49 @@
 # music_manager
 
-Created with next.js, react.js and the example template next.js/examples/with-passport-and-next-connect
+Music Manager is a full stack html5 single page web application designed to manage songs for multiple instruments including voice and orchastra.  It will deliver song lyrics and orchestral instrument notations.
 
-## Install and run:
+It was created using next.js, react, and uses an API to communicate with a Mongo Database for data persistence.
+
+## Current Status
+
+Some of the API is in place
+* The instruments API is working using MongoDB
+* The login, logout, and users API is working going to code to fake a database.
+* The songs API is missing - will be worked on next
+
+
+# Getting Started
+
+Install the Git client on your machine. See https://git-scm.com/downloads .
+
+To begin developing get the code onto your machine by using the Git client to Fork or Clone this repository.
+
+Install Node on your machine. See https://nodejs.dev/ .
+
+## Prerequisites
+
+Go into the folder containing the downloaded code and install the required packages with npm.
 
 ```bash
 npm install
-npm run dev
-# or
-yarn
-yarn dev
 ```
 
-## Configuration
+### Configuration
 
-### Step 1. Get the connection string of your MongoDB server
+Establish a MongoDB Atlas account and setup a free shared cluster for online data storage. This provides a place to store data. See https://mongodb.com
 
-In the case of MongoDB Atlas, it should be a string like this:
+Get the connection string of your MongoDB shared cluster. It wil be a string like:
 
-```
+```bash
 mongodb+srv://<username>:<password>@my-project-abc123.mongodb.net/test?retryWrites=true&w=majority
 ```
 
 For more details, follow this [MongoDB Guide](https://docs.mongodb.com/guides/server/drivers/) on how to connect to MongoDB.
 
-### Step 2. Set up environment variables
 
-Copy the `.env.local.example` file in this directory to `.env.local` (which will be ignored by Git):
+Set up environment variables
+
+Copy the `.env.local.example` file to a new file that you create `.env.local`
 
 ```bash
 cp .env.local.example .env.local
@@ -34,13 +51,44 @@ cp .env.local.example .env.local
 
 Then set each variable on `.env.local`:
 
-- `MONGODB_URI` should be the MongoDB connection string you got from step 1.
-
-
-### Step 3. Run Next.js in development mode
+Example:
 
 ```bash
-npm install
+MONGODB_URI=mongodb+srv://testuser:dontreusethis@cluster0-gc0a7.mongodb.net/music?retryWrites=true&w=majority
+```
+
+# Usage
+
+In the project directory, you can run:
+
+```bash
+npm start
+```
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+```bash
+npm test
+```
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+```bash
+npm run build
+```
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+```bash
 npm run dev
 ```
 
@@ -60,73 +108,6 @@ In production, you must use a password hashing library, such as [argon2](https:/
 Deploy using [Vercel](https://vercel.com): 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/spopp20/music_manager)
 
-Deploy using [Netlify](https://netlify.com)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/spopp20/music_manager&utm_source=github)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/79940108-4464-43ab-951a-7e33af7417e6/deploy-status)](https://app.netlify.com/sites/music-manager-net/deploys)
-
-## How to use the template
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-passport-and-next-connect music_manager
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run dev`
-
-Builds the app for development to the `build` folder.\
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ## Environment Variables
 
@@ -150,4 +131,6 @@ Collections are named in lower case and are plural such as "instruments"
  
 Use the browser default GET function locally retrieve raw JSON results.
 
-[http://localhost:3000/api/instruments](http://localhost:3000/api/instruments)
+[api/instruments](http://localhost:3000/api/instruments)
+
+[api/instruments](http://localhost:3000/api/songs)

@@ -17,7 +17,7 @@ export default function SignupPage() {
     }
 
     if (body.password !== e.currentTarget.rpassword.value) {
-      setErrorMsg(`The passwords don't match`)
+      setErrorMsg(`The passwords don't match.`)
       return
     }
 
@@ -43,7 +43,7 @@ export default function SignupPage() {
 
   return (
     <>
-      <h1>Sign up to Example</h1>
+      <h1>Sign up</h1>
       {errorMsg && <p className="error">{errorMsg}</p>}
       <div className="form-container">
         <form onSubmit={onSubmit}>
