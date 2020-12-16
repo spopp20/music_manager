@@ -2,6 +2,8 @@
 import Head from '../components/Head'
 import Navbar from '../components/Navbar'
 import '../styles.css'
+import '../components/Navbar.css'
+import '../pages/instruments.css'
 
 export default function MyApp({ Component, pageProps }) {
   return (
