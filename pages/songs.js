@@ -16,10 +16,10 @@ export default function SongPage({ songs }) {
               <p className="item-name">{song.keys}</p>
 
               <div className="btn-container">
-                <Link href="/[id]/edit" as={`/${song._id}/edit`}>
+                <Link href="song/[id]/edit" as={`song/${song._id}/edit`}>
                   <button className="btn edit">Edit</button>
                 </Link>
-                <Link href="/[id]" as={`/${song._id}`}>
+                <Link href="song/[id]/view" as={`song/${song._id}/view`}>
                   <button className="btn view">View</button>
                 </Link>
               </div>

@@ -15,10 +15,10 @@ export default function InstrumentsPage({ instruments }) {
               <p className="item-name">{instrument.folder}</p>
 
               <div className="btn-container">
-                <Link href="/[id]/edit" as={`/${instrument._id}/edit`}>
+                <Link href="instrument/[id]/edit" as={`instrument/${instrument._id}/edit`}>
                   <button className="btn edit">Edit</button>
                 </Link>
-                <Link href="/[id]" as={`/${instrument._id}`}>
+                <Link href="instrument/[id]/view" as={`instrument/${instrument._id}/view`}>
                   <button className="btn view">View</button>
                 </Link>
               </div>
