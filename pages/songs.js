@@ -1,35 +1,29 @@
-import Link from 'next/link'
-import dbConnect from '../middleware/dbConnect'
-import Song from '../models/Song'
+import dbConnect from '../middleware/dbConnect';
+import Song from '../models/Song';
+import SongCard from '~/components/SongCard';
 
+import {
+  Container,
+  Col,
+  Row,
+} from "reactstrap";
 
 export default function SongPage({ songs }) {
+  let songCards = songs.map((song) => {
+    return (
+      <Col sm="4" key={song._id}>
+          <SongCard song={song}/>
+      </Col>
+    )
+  })
   return (
-    <>
-      {/* Create a card for each song */}
-      {songs.map((song) => (
-        <div key={song._id}>
-          <div className="card">
-            <h5 className="item-name">{song.name}</h5>
-            <div className="main-content">
-              <p className="item-name">{song.arrangement}</p>
-              <p className="item-name">{song.keys}</p>
-
-              <div className="btn-container">
-                <Link href="song/[id]/edit" as={`song/${song._id}/edit`}>
-                  <button className="btn edit">Edit</button>
-                </Link>
-                <Link href="song/[id]/view" as={`song/${song._id}/view`}>
-                  <button className="btn view">View</button>
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      ))}
-    </>
+    <Container fluid>
+      <Row>
+        {songCards}
+      </Row>
+    </Container>
   )
-}
+};
 
 /* Retrieves songs collection data from mongodb database */
 export async function getServerSideProps() {

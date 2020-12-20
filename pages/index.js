@@ -1,5 +1,6 @@
-import { useUser, fetcher } from '../lib/hooks'
-import useSWR from 'swr'
+import { useUser, fetcher } from '../lib/hooks';
+import useSWR from 'swr';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function UserList() {

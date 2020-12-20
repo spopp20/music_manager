@@ -1,34 +1,29 @@
-import Link from 'next/link'
 import dbConnect from '../middleware/dbConnect'
-import Instrument from '../models/Instrument'
+import Instrument from '../models/Instrument';
+import InstrumentCard from '~/components/InstrumentCard';
 
+import {
+  Container,
+  Col,
+  Row,
+} from "reactstrap";
 
 export default function InstrumentsPage({ instruments }) {
+  let instrumentCards = instruments.map((instrument) => {
+    return (
+      <Col sm="4" key={instrument._id}>
+        <InstrumentCard instrument={instrument}/>
+      </Col>
+    )
+  })
   return (
-    <>
-      {/* Create a card for each instrument */}
-      {instruments.map((instrument) => (
-        <div key={instrument._id}>
-          <div className="card">
-            <h5 className="item-name">{instrument.name}</h5>
-            <div className="main-content">
-              <p className="item-name">{instrument.folder}</p>
-
-              <div className="btn-container">
-                <Link href="instrument/[id]/edit" as={`instrument/${instrument._id}/edit`}>
-                  <button className="btn edit">Edit</button>
-                </Link>
-                <Link href="instrument/[id]/view" as={`instrument/${instrument._id}/view`}>
-                  <button className="btn view">View</button>
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      ))}
-    </>
+    <Container fluid>
+      <Row>
+        {instrumentCards}
+      </Row>
+    </Container>
   )
-}
+};
 
 /* Retrieves instruments collection data from mongodb database */
 export async function getServerSideProps() {
