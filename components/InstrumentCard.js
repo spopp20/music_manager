@@ -4,6 +4,7 @@ import React from "react";
 // reactstrap components
 import {
   Button,
+  ButtonToolbar,
   Card,
   CardBody,
   CardTitle,
@@ -18,12 +19,14 @@ const InstrumentCard = ({ instrument }) => {
         <CardText className=" mt-4">
         {instrument.folder}
         </CardText>
+        <ButtonToolbar>
           <Link href="instrument/[id]/edit" as={`instrument/${instrument._id}/edit`}>
-            <Button color="primary">Edit</Button>
+            <Button className=" m-2" color="primary">Edit</Button>
           </Link>
           <Link href="instrument/[id]/view" as={`instrument/${instrument._id}/view`}>
-            <Button color="secondary">View</Button>
+            <Button className=" m-2" color="secondary">View</Button>
           </Link>
+        </ButtonToolbar>
       </CardBody>
     </Card>
   )

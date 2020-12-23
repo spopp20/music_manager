@@ -1,0 +1,11 @@
+SELECT title, arrangement, start_key, tempo_cd_id as tempo, TRIM(BOTH '\n' FROM SUBSTRING_INDEX(words, ' ', 4)) as begins_with, 
+CASE
+    WHEN LOCATE('Q', UCASE(title)) = 1 THEN 'Special'
+    WHEN LOCATE('X', UCASE(title)) = 1 THEN 'Youth'
+    ELSE 'Main'
+END as tag,
+SUBSTR(title,instr(title,"(") + 1, instr(title,")") - instr(title,"(") - 1) as note
+FROM song;
+
+
+

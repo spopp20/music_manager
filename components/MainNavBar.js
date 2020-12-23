@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHome } from "@fortawesome/free-solid-svg-icons";
+
 import {
   Collapse,
   Navbar,
@@ -19,7 +20,7 @@ const MainNavBar = (props) => {
   return (
     <Navbar color="dark" dark expand="md">
       <NavbarBrand href="/" style={{width:50, marginTop: -8}}> 
-        <FontAwesomeIcon icon={faHome} className="mr-2"/>
+        <FontAwesomeIcon icon={faHome} className="mr-1"/>
       </NavbarBrand>
       <NavbarToggler onClick={toggle} />
       <Collapse isOpen={isOpen} navbar>
@@ -31,7 +32,7 @@ const MainNavBar = (props) => {
             <NavLink href="/songs">Songs</NavLink>
           </NavItem>
         </Nav>
-        <Nav className="mr-auto" navbar>
+        <Nav className="ml-auto" navbar>
           <NavItem>
             <NavLink href="/login">Login</NavLink>
           </NavItem>

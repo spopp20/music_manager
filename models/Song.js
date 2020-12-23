@@ -17,10 +17,15 @@ const SongSchema = new mongoose.Schema({
     type: String,
     maxlength: [200, 'Arrangement cannot be more than 200 characters'],
   },
-  keys: {
-    /* The location of this Song */
-    type: [String],
-    validate: v => v == null || v.length > 0,
+  start_key: {
+    /* The starting key this Song */
+    type: String,
+    maxlength: [40, 'Start Key cannot be more than 40 characters'],
+  },
+  begins_with: {
+    /* The starting words for this Song */
+    type: String,
+    maxlength: [60, 'Begins with cannot be more than 60 characters'],
   },
 }, { timestamps: true })
 

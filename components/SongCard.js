@@ -4,6 +4,7 @@ import React from "react";
 // reactstrap components
 import {
   Button,
+  ButtonToolbar,
   Card,
   CardBody,
   CardTitle,
@@ -14,21 +15,22 @@ const SongCard = ({ song }) => {
   return (
     <Card>
       <CardBody>
-        <CardTitle className=" h2 mb-0">{song.name}</CardTitle>
-        <small className=" text-muted">
-        Keys {song.keys}
-        </small>
-        <CardText className=" mt-4">
-        {song.arrangement}
+        <CardTitle className=" h2 mt-2">{song.title}</CardTitle>
+        Keys {song.start_key}
+        <CardText className=" mt-2">
+        Arrangement {song.arrangement}
         </CardText>
-        <div>
+        <CardText className=" mt-1">
+        Starts with {song.begins_with}
+        </CardText>
+        <ButtonToolbar>
           <Link href="song/[id]/edit" as={`song/${song._id}/edit`}>
-            <Button color="primary">Edit</Button>
+            <Button className=" m-2" color="primary">Edit</Button>
           </Link>
           <Link href="song/[id]/view" as={`song/${song._id}/view`}>
-            <Button color="secondary">View</Button>
+            <Button className=" m-2" color="secondary">View</Button>
           </Link>
-        </div>
+        </ButtonToolbar>
       </CardBody>
     </Card>
   )
