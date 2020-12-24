@@ -4,7 +4,7 @@
     "arrangement" : "Faithful one, so unchanging...",
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "Faithful One\r\nSo unchanging\r\nAgeless One\r\nYou're",
+    "begins_with" : "Faithful One So unchanging",
     "tag" : "Main",
     "note" : ""
   },
@@ -13,7 +13,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 4,
-    "begins_with" : "Ah, Lord God\r\n(!Oh Señor",
+    "begins_with" : "Ah, Lord God (!Oh",
     "tag" : "Main",
     "note" : ""
   },
@@ -22,7 +22,7 @@
     "arrangement" : "Jesus is my Lord and Savior",
     "start_key" : "Dm",
     "tempo" : 3,
-    "begins_with" : "Jesus is my\r\nLord and",
+    "begins_with" : "Jesus is my Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -31,7 +31,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 2,
-    "begins_with" : "All honor,\r\nAll glory,\r\nAll power",
+    "begins_with" : "All honor, All glory,",
     "tag" : "Main",
     "note" : ""
   },
@@ -49,7 +49,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "You're altogether lovely.\r\nYou're altogether",
+    "begins_with" : "You're altogether lovely. You're",
     "tag" : "Main",
     "note" : ""
   },
@@ -58,7 +58,7 @@
     "arrangement" : "(Piano intro.)\r\nBlessing and Honor,           \r\nGlory and Power",
     "start_key" : "C",
     "tempo" : 4,
-    "begins_with" : "Blessing and Honor\r\n(Bendición y",
+    "begins_with" : "Blessing and Honor (Bendición",
     "tag" : "Main",
     "note" : ""
   },
@@ -67,7 +67,7 @@
     "arrangement" : "Sing with:\r\nI Will Sing\r\nSinging is a pleasure\r\nI Love to Praise Him",
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "Arise and sing, \r\nYe",
+    "begins_with" : "Arise and sing, ",
     "tag" : "Main",
     "note" : ""
   },
@@ -76,7 +76,7 @@
     "arrangement" : null,
     "start_key" : "A\/Bb\/B\/C",
     "tempo" : 4,
-    "begins_with" : "Arise, shine,\r\n(levantate, brilla) \r\nFor",
+    "begins_with" : "Arise, shine, (levantate, brilla)",
     "tag" : "Main",
     "note" : ""
   },
@@ -103,7 +103,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 4,
-    "begins_with" : "At His right hand\r\n(A",
+    "begins_with" : "At His right hand",
     "tag" : "Main",
     "note" : ""
   },
@@ -112,7 +112,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "Be glorified; be glorified.\r\n(Te",
+    "begins_with" : "Be glorified; be glorified.",
     "tag" : "Main",
     "note" : ""
   },
@@ -130,7 +130,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Be Thou exalted\r\n(Sé tú",
+    "begins_with" : "Be Thou exalted (Sé",
     "tag" : "Main",
     "note" : ""
   },
@@ -139,7 +139,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 3,
-    "begins_with" : "Behold\r\n(Mirad)\r\nHow good and how",
+    "begins_with" : "Behold (Mirad) How good",
     "tag" : "Main",
     "note" : ""
   },
@@ -148,7 +148,7 @@
     "arrangement" : null,
     "start_key" : "Bb",
     "tempo" : 3,
-    "begins_with" : "Behold,\r\nWhat manner of love\r\nThe",
+    "begins_with" : "Behold, What manner of",
     "tag" : "Main",
     "note" : ""
   },
@@ -166,7 +166,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 3,
-    "begins_with" : "Bless the Lord \r\nFor",
+    "begins_with" : "Bless the Lord ",
     "tag" : "Main",
     "note" : ""
   },
@@ -175,7 +175,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Bless the Lord, \r\nWho",
+    "begins_with" : "Bless the Lord, ",
     "tag" : "Main",
     "note" : ""
   },
@@ -184,7 +184,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Blessed are they\r\n(Bienaventurados los)\r\nThat",
+    "begins_with" : "Blessed are they (Bienaventurados",
     "tag" : "Main",
     "note" : ""
   },
@@ -193,16 +193,16 @@
     "arrangement" : "(intro)",
     "start_key" : "Ab",
     "tempo" : 4,
-    "begins_with" : "Blessed be the Lord\r\n(Bendito",
+    "begins_with" : "Blessed be the Lord",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - Blessed Be The Lord, A Mighty Fortress",
+    "title" : "Blessed Be The Lord, A Mighty Fortress",
     "arrangement" : null,
     "start_key" : "F\/G",
     "tempo" : 4,
-    "begins_with" : "Blessed be the Lord\r\nA",
+    "begins_with" : "Blessed be the Lord",
     "tag" : "Special",
     "note" : ""
   },
@@ -211,7 +211,7 @@
     "arrangement" : null,
     "start_key" : "Gm",
     "tempo" : 4,
-    "begins_with" : "Blessing, and glory,\r\nAnd honor,",
+    "begins_with" : "Blessing, and glory, And",
     "tag" : "Main",
     "note" : ""
   },
@@ -220,7 +220,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Blessing, glory, and honor,\r\nGlory",
+    "begins_with" : "Blessing, glory, and honor,",
     "tag" : "Main",
     "note" : ""
   },
@@ -229,7 +229,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "Blow that trumpet, blow\r\n(Sopla",
+    "begins_with" : "Blow that trumpet, blow",
     "tag" : "Main",
     "note" : ""
   },
@@ -238,7 +238,7 @@
     "arrangement" : "We rush on the city,\r\nWe run on the wall",
     "start_key" : "Cm\/C#m\/Dm",
     "tempo" : 5,
-    "begins_with" : "Rush on the city!\r\nRun",
+    "begins_with" : "Rush on the city!",
     "tag" : "Main",
     "note" : ""
   },
@@ -256,7 +256,7 @@
     "arrangement" : null,
     "start_key" : "Bb",
     "tempo" : 3,
-    "begins_with" : "Call on the Lord\r\nWhile",
+    "begins_with" : "Call on the Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -265,7 +265,7 @@
     "arrangement" : "This faltering tongue\r\nWould dare to speak",
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "This faltering tongue\r\nWould dare",
+    "begins_with" : "This faltering tongue Would",
     "tag" : "Main",
     "note" : ""
   },
@@ -274,7 +274,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Cause me to hear\r\nThy",
+    "begins_with" : "Cause me to hear",
     "tag" : "Main",
     "note" : ""
   },
@@ -283,7 +283,7 @@
     "arrangement" : null,
     "start_key" : "Eb\/F\/G",
     "tempo" : 4,
-    "begins_with" : "Clap your hands,\r\nAll ye",
+    "begins_with" : "Clap your hands, All",
     "tag" : "Main",
     "note" : ""
   },
@@ -301,7 +301,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "Come unto Jesus,\r\nGive Him",
+    "begins_with" : "Come unto Jesus, Give",
     "tag" : "Main",
     "note" : ""
   },
@@ -310,7 +310,7 @@
     "arrangement" : "He's the Savior, Redeemer,\r\nOur Sacrifice Lamb...",
     "start_key" : "Bb",
     "tempo" : 3,
-    "begins_with" : "He's the Savior, Redeemer,\r\n(Él",
+    "begins_with" : "He's the Savior, Redeemer,",
     "tag" : "Main",
     "note" : ""
   },
@@ -319,7 +319,7 @@
     "arrangement" : null,
     "start_key" : "G",
     "tempo" : 2,
-    "begins_with" : "Create in me \r\nA",
+    "begins_with" : "Create in me ",
     "tag" : "Main",
     "note" : "and renew a right spirit"
   },
@@ -364,7 +364,7 @@
     "arrangement" : null,
     "start_key" : "Bb",
     "tempo" : 2,
-    "begins_with" : "Draw nigh unto Me,\r\nAnd",
+    "begins_with" : "Draw nigh unto Me,",
     "tag" : "Main",
     "note" : ""
   },
@@ -373,7 +373,7 @@
     "arrangement" : null,
     "start_key" : "Gm",
     "tempo" : 4,
-    "begins_with" : "El Eloi Israel,\r\nEl Eloi",
+    "begins_with" : "El Eloi Israel, El",
     "tag" : "Main",
     "note" : ""
   },
@@ -391,7 +391,7 @@
     "arrangement" : "Lord \r\nYou're faithful and just",
     "start_key" : "Cm",
     "tempo" : 3,
-    "begins_with" : "Lord, \r\nYou're faithful and",
+    "begins_with" : "Lord,  You're faithful",
     "tag" : "Main",
     "note" : ""
   },
@@ -400,7 +400,7 @@
     "arrangement" : null,
     "start_key" : "D\/Eb",
     "tempo" : 2,
-    "begins_with" : "Father God,\r\nMy arms are",
+    "begins_with" : "Father God, My arms",
     "tag" : "Main",
     "note" : ""
   },
@@ -409,7 +409,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Father,\r\nWe have confidence that\r\nBy",
+    "begins_with" : "Father, We have confidence",
     "tag" : "Main",
     "note" : ""
   },
@@ -418,7 +418,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Fear thou not,\r\nFor I",
+    "begins_with" : "Fear thou not, For",
     "tag" : "Main",
     "note" : ""
   },
@@ -445,7 +445,7 @@
     "arrangement" : null,
     "start_key" : "Am",
     "tempo" : 4,
-    "begins_with" : "For the Lord\r\nIs marching",
+    "begins_with" : "For the Lord Is",
     "tag" : "Main",
     "note" : ""
   },
@@ -499,7 +499,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Give thanks \r\nWith a",
+    "begins_with" : "Give thanks  With",
     "tag" : "Main",
     "note" : ""
   },
@@ -508,7 +508,7 @@
     "arrangement" : "Father we love You\r\nWe praise You",
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "Father we love You\r\nWe",
+    "begins_with" : "Father we love You",
     "tag" : "Main",
     "note" : ""
   },
@@ -517,7 +517,7 @@
     "arrangement" : null,
     "start_key" : "C\/D\/E\/F#",
     "tempo" : 3,
-    "begins_with" : "Glory, Glory, Glory!\r\nJesus is",
+    "begins_with" : "Glory, Glory, Glory! Jesus",
     "tag" : "Main",
     "note" : "Herring"
   },
@@ -526,7 +526,7 @@
     "arrangement" : "(Men start)",
     "start_key" : "Gm",
     "tempo" : 3,
-    "begins_with" : "Go out with joy,\r\nAnd",
+    "begins_with" : "Go out with joy,",
     "tag" : "Main",
     "note" : ""
   },
@@ -544,7 +544,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 4,
-    "begins_with" : "Great and wonderful\r\n(Grande y",
+    "begins_with" : "Great and wonderful (Grande",
     "tag" : "Main",
     "note" : ""
   },
@@ -553,7 +553,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "Great is the Lord\r\n(Grande",
+    "begins_with" : "Great is the Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -562,7 +562,7 @@
     "arrangement" : "We will worship \r\nThe maker of all things",
     "start_key" : "Bb",
     "tempo" : 1,
-    "begins_with" : "We will worship \r\nThe",
+    "begins_with" : "We will worship ",
     "tag" : "Main",
     "note" : ""
   },
@@ -571,7 +571,7 @@
     "arrangement" : null,
     "start_key" : "Gm\/Am",
     "tempo" : 4,
-    "begins_with" : "He did not bring\r\n(Él",
+    "begins_with" : "He did not bring",
     "tag" : "Main",
     "note" : ""
   },
@@ -598,7 +598,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "He is exalted\r\nThe King",
+    "begins_with" : "He is exalted The",
     "tag" : "Main",
     "note" : ""
   },
@@ -607,7 +607,7 @@
     "arrangement" : null,
     "start_key" : "G",
     "tempo" : 1,
-    "begins_with" : "He is Lord\r\nHe Is",
+    "begins_with" : "He is Lord He",
     "tag" : "Main",
     "note" : ""
   },
@@ -625,7 +625,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "He is our peace\r\n(El",
+    "begins_with" : "He is our peace",
     "tag" : "Main",
     "note" : ""
   },
@@ -634,7 +634,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "He that dwelleth\r\nIn the",
+    "begins_with" : "He that dwelleth In",
     "tag" : "Main",
     "note" : ""
   },
@@ -661,7 +661,7 @@
     "arrangement" : null,
     "start_key" : "Dm\/D",
     "tempo" : 4,
-    "begins_with" : "Hear, O Israel,\r\nThe Lord",
+    "begins_with" : "Hear, O Israel, The",
     "tag" : "Main",
     "note" : ""
   },
@@ -679,7 +679,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "Heavenly Father\r\nI appreciate You\r\nHeavenly",
+    "begins_with" : "Heavenly Father I appreciate",
     "tag" : "Main",
     "note" : ""
   },
@@ -697,7 +697,7 @@
     "arrangement" : null,
     "start_key" : "Eb\/F",
     "tempo" : 2,
-    "begins_with" : "Holiness unto the Lord\r\n(Santidad",
+    "begins_with" : "Holiness unto the Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -706,7 +706,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "Holy ground\r\nThis is holy",
+    "begins_with" : "Holy ground This is",
     "tag" : "Main",
     "note" : ""
   },
@@ -724,12 +724,12 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "Holy One\r\n(Santo)\r\nMost Holy One\r\n(Santisimo)\r\nYour",
+    "begins_with" : "Holy One (Santo) Most",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Holy, Holy Lord I Love You\/Behold the Lion of Judah\/The Lord Reigneth ",
+    "title" : "Holy, Holy Lord I Love You\/Behold the Lion of Judah\/The Lord Reigneth",
     "arrangement" : null,
     "start_key" : "Gm",
     "tempo" : 4,
@@ -751,7 +751,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Holy, Holy, Holy!\r\nHoly, Holy,",
+    "begins_with" : "Holy, Holy, Holy! Holy,",
     "tag" : "Main",
     "note" : ""
   },
@@ -760,7 +760,7 @@
     "arrangement" : "Holy holy holy Lord,\r\nGod of power and might",
     "start_key" : "F (Eb)",
     "tempo" : 2,
-    "begins_with" : "Holy holy holy Lord\r\nGod",
+    "begins_with" : "Holy holy holy Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -769,7 +769,7 @@
     "arrangement" : "Hosanna  Hosanna\r\nHosanna in the highest",
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Hosanna, Hosanna!\r\nHosanna in the",
+    "begins_with" : "Hosanna, Hosanna! Hosanna in",
     "tag" : "Main",
     "note" : ""
   },
@@ -778,7 +778,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "How excellent is\r\n(Qué excelente",
+    "begins_with" : "How excellent is (Qué",
     "tag" : "Main",
     "note" : ""
   },
@@ -796,7 +796,7 @@
     "arrangement" : "O Lord our Lord\r\nHow excellent Your name is",
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "O Lord our Lord\r\n(Oh",
+    "begins_with" : "O Lord our Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -805,7 +805,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 1,
-    "begins_with" : "How I praise You\r\nPraise",
+    "begins_with" : "How I praise You",
     "tag" : "Main",
     "note" : ""
   },
@@ -823,7 +823,7 @@
     "arrangement" : "4 measure intro...",
     "start_key" : "Em",
     "tempo" : 1,
-    "begins_with" : "Humble yourself \r\nIn the",
+    "begins_with" : "Humble yourself  In",
     "tag" : "Main",
     "note" : ""
   },
@@ -832,7 +832,7 @@
     "arrangement" : "You are my strength O God\r\nYou are my shield O God",
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "You are my strength\r\nO",
+    "begins_with" : "You are my strength",
     "tag" : "Main",
     "note" : ""
   },
@@ -841,7 +841,7 @@
     "arrangement" : "The tabernacle\r\nof God with men",
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "The tabernacle of \r\nGod's",
+    "begins_with" : "The tabernacle of ",
     "tag" : "Main",
     "note" : ""
   },
@@ -859,7 +859,7 @@
     "arrangement" : null,
     "start_key" : "Em",
     "tempo" : 3,
-    "begins_with" : "I am persuaded\r\nNeither life",
+    "begins_with" : "I am persuaded Neither",
     "tag" : "Main",
     "note" : ""
   },
@@ -895,7 +895,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "I have decided\r\n(He decidido)\r\nTo",
+    "begins_with" : "I have decided (He",
     "tag" : "Main",
     "note" : ""
   },
@@ -940,7 +940,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "I love the Lord\r\n(Amo",
+    "begins_with" : "I love the Lord",
     "tag" : "Main",
     "note" : "I Love You Lord, for You Have"
   },
@@ -967,7 +967,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "I love You Lord\r\nFor",
+    "begins_with" : "I love You Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -1039,7 +1039,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 4,
-    "begins_with" : "I will celebrate,\r\n(Voy a",
+    "begins_with" : "I will celebrate, (Voy",
     "tag" : "Main",
     "note" : ""
   },
@@ -1098,11 +1098,11 @@
     "note" : ""
   },
   {
-    "title" : "Q - I Will Serve Thee",
+    "title" : "I Will Serve Thee",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "I will serve Thee\r\nBecause",
+    "begins_with" : "I will serve Thee",
     "tag" : "Special",
     "note" : ""
   },
@@ -1129,7 +1129,7 @@
     "arrangement" : "pno intro...",
     "start_key" : "D\/Eb",
     "tempo" : 3,
-    "begins_with" : "I will stand\r\n(Estaré) \r\nIn",
+    "begins_with" : "I will stand (Estaré)",
     "tag" : "Main",
     "note" : ""
   },
@@ -1165,7 +1165,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "I'd rather have Jesus\r\n(Prefiero",
+    "begins_with" : "I'd rather have Jesus",
     "tag" : "Main",
     "note" : ""
   },
@@ -1183,7 +1183,7 @@
     "arrangement" : "Some glad morning, ",
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "Some glad morning,\r\nWhen this",
+    "begins_with" : "Some glad morning, When",
     "tag" : "Main",
     "note" : ""
   },
@@ -1201,7 +1201,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "In moments like these\r\nI",
+    "begins_with" : "In moments like these",
     "tag" : "Main",
     "note" : ""
   },
@@ -1237,7 +1237,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "In the very beginning\r\n(En",
+    "begins_with" : "In the very beginning",
     "tag" : "Main",
     "note" : ""
   },
@@ -1246,7 +1246,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "In Your presence\r\nThat's where",
+    "begins_with" : "In Your presence That's",
     "tag" : "Main",
     "note" : ""
   },
@@ -1255,7 +1255,7 @@
     "arrangement" : "Isn't He beautiful",
     "start_key" : "G",
     "tempo" : 2,
-    "begins_with" : "Isn't He beautiful\r\nBeautiful isn't",
+    "begins_with" : "Isn't He beautiful Beautiful",
     "tag" : "Main",
     "note" : ""
   },
@@ -1273,7 +1273,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "It's bubblin', it's bubblin'\r\n(Está",
+    "begins_with" : "It's bubblin', it's bubblin'",
     "tag" : "Main",
     "note" : ""
   },
@@ -1291,7 +1291,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 4,
-    "begins_with" : "Jehovah Elohim \r\n(Jehová Elohim)\r\nAdonai,",
+    "begins_with" : "Jehovah Elohim  (Jehová",
     "tag" : "Main",
     "note" : ""
   },
@@ -1309,7 +1309,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "Jesus I'll never forget\r\n(Jesús,",
+    "begins_with" : "Jesus I'll never forget",
     "tag" : "Main",
     "note" : ""
   },
@@ -1318,7 +1318,7 @@
     "arrangement" : "Jesus is the answer...",
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Jesus is the answer\r\nFor",
+    "begins_with" : "Jesus is the answer",
     "tag" : "Main",
     "note" : ""
   },
@@ -1336,7 +1336,7 @@
     "arrangement" : "Beautiful, beautiful,",
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Beautiful  beautiful\r\nJesus is",
+    "begins_with" : "Beautiful  beautiful Jesus",
     "tag" : "Main",
     "note" : ""
   },
@@ -1363,7 +1363,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Jesus draw me close\r\ncloser",
+    "begins_with" : "Jesus draw me close",
     "tag" : "Main",
     "note" : ""
   },
@@ -1372,7 +1372,7 @@
     "arrangement" : null,
     "start_key" : "Ab",
     "tempo" : 1,
-    "begins_with" : "Joy of my desire\r\nAll",
+    "begins_with" : "Joy of my desire",
     "tag" : "Main",
     "note" : ""
   },
@@ -1381,7 +1381,7 @@
     "arrangement" : null,
     "start_key" : "G",
     "tempo" : 2,
-    "begins_with" : "Know therefore\r\n(Conoce, pues) \r\nThat",
+    "begins_with" : "Know therefore (Conoce, pues)",
     "tag" : "Main",
     "note" : ""
   },
@@ -1399,7 +1399,7 @@
     "arrangement" : "Your only Son\r\nNo sin to hide",
     "start_key" : "C\/D",
     "tempo" : 1,
-    "begins_with" : "Your only Son\r\nNo sin",
+    "begins_with" : "Your only Son No",
     "tag" : "Main",
     "note" : ""
   },
@@ -1408,7 +1408,7 @@
     "arrangement" : "What a fellowship\r\nWhat a joy divine",
     "start_key" : "Ab",
     "tempo" : 2,
-    "begins_with" : "What a fellowship,\r\nWhat a",
+    "begins_with" : "What a fellowship, What",
     "tag" : "Main",
     "note" : ""
   },
@@ -1417,7 +1417,7 @@
     "arrangement" : null,
     "start_key" : "Bb",
     "tempo" : 3,
-    "begins_with" : "Let God arise\r\n(Deja que",
+    "begins_with" : "Let God arise (Deja",
     "tag" : "Main",
     "note" : ""
   },
@@ -1426,7 +1426,7 @@
     "arrangement" : null,
     "start_key" : "Gm",
     "tempo" : 3,
-    "begins_with" : "Let God arise\r\n(Levántese Dios)\r\nLet",
+    "begins_with" : "Let God arise (Levántese",
     "tag" : "Main",
     "note" : ""
   },
@@ -1435,7 +1435,7 @@
     "arrangement" : null,
     "start_key" : "Em\/Fm\/Gm",
     "tempo" : 3,
-    "begins_with" : "Let praise arise in\r\nThe",
+    "begins_with" : "Let praise arise in",
     "tag" : "Main",
     "note" : ""
   },
@@ -1444,7 +1444,7 @@
     "arrangement" : "Starts with\r\nLet us exalt \r\nHis name \r\ntogether forever",
     "start_key" : "Bb",
     "tempo" : 2,
-    "begins_with" : "Let us exalt \r\nHis",
+    "begins_with" : "Let us exalt ",
     "tag" : "Main",
     "note" : ""
   },
@@ -1462,12 +1462,12 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "Let Your Spirit come\r\nFall",
+    "begins_with" : "Let Your Spirit come",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - Lets Just Praise The Lord",
+    "title" : "Lets Just Praise The Lord",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
@@ -1480,7 +1480,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "Lift Him up\r\n(Levantalo)\r\nLift Him",
+    "begins_with" : "Lift Him up (Levantalo)",
     "tag" : "Main",
     "note" : ""
   },
@@ -1489,7 +1489,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Lift up your voice\r\nAnd",
+    "begins_with" : "Lift up your voice",
     "tag" : "Main",
     "note" : ""
   },
@@ -1498,7 +1498,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 3,
-    "begins_with" : "Lift up your voices\r\n(Levanta",
+    "begins_with" : "Lift up your voices",
     "tag" : "Main",
     "note" : ""
   },
@@ -1534,7 +1534,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "Lord Jesus Christ\r\n(Señor Jesucristo)\r\nLord",
+    "begins_with" : "Lord Jesus Christ (Señor",
     "tag" : "Main",
     "note" : ""
   },
@@ -1543,7 +1543,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Thou art the Christ\r\n(Tú",
+    "begins_with" : "Thou art the Christ",
     "tag" : "Main",
     "note" : "Thou Art The Christ"
   },
@@ -1552,7 +1552,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "Lord of love \r\n(Señor",
+    "begins_with" : "Lord of love ",
     "tag" : "Main",
     "note" : ""
   },
@@ -1561,7 +1561,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "Lord  You are\r\nMore",
+    "begins_with" : "Lord  You are",
     "tag" : "Main",
     "note" : ""
   },
@@ -1579,7 +1579,7 @@
     "arrangement" : null,
     "start_key" : "Bb\/C",
     "tempo" : 1,
-    "begins_with" : "Lord, let Your light\r\n(Señor,",
+    "begins_with" : "Lord, let Your light",
     "tag" : "Main",
     "note" : ""
   },
@@ -1615,7 +1615,7 @@
     "arrangement" : null,
     "start_key" : "Am\/A",
     "tempo" : 1,
-    "begins_with" : "Maker of the heavens\r\nPainter",
+    "begins_with" : "Maker of the heavens",
     "tag" : "Main",
     "note" : ""
   },
@@ -1624,7 +1624,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 3,
-    "begins_with" : "Maranatha Jesus\r\n(Maranatha Jesús)\r\nMaranatha Christ",
+    "begins_with" : "Maranatha Jesus (Maranatha Jesús)",
     "tag" : "Main",
     "note" : ""
   },
@@ -1651,7 +1651,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "Mighty God\r\nMighty God\r\nI exalt",
+    "begins_with" : "Mighty God Mighty God",
     "tag" : "Main",
     "note" : ""
   },
@@ -1678,7 +1678,7 @@
     "arrangement" : null,
     "start_key" : "F\/G",
     "tempo" : 2,
-    "begins_with" : "We've been made \r\nMore",
+    "begins_with" : "We've been made ",
     "tag" : "Main",
     "note" : ""
   },
@@ -1687,7 +1687,7 @@
     "arrangement" : null,
     "start_key" : "Fm",
     "tempo" : 2,
-    "begins_with" : "Morning Star\r\nJesus You are\r\nSavior",
+    "begins_with" : "Morning Star Jesus You",
     "tag" : "Main",
     "note" : ""
   },
@@ -1723,7 +1723,7 @@
     "arrangement" : "I am your strength\r\nThe power of your right hand",
     "start_key" : "Dm",
     "tempo" : 4,
-    "begins_with" : "I am your strength\r\nThe",
+    "begins_with" : "I am your strength",
     "tag" : "Main",
     "note" : ""
   },
@@ -1732,7 +1732,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "My soul, wait\r\n(Alma mía,",
+    "begins_with" : "My soul, wait (Alma",
     "tag" : "Main",
     "note" : ""
   },
@@ -1768,7 +1768,7 @@
     "arrangement" : null,
     "start_key" : "Gm\/Am",
     "tempo" : 4,
-    "begins_with" : "O, clap your hands,\r\nAll",
+    "begins_with" : "O, clap your hands,",
     "tag" : "Main",
     "note" : ""
   },
@@ -1795,7 +1795,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "O Lord My God\r\n(Oh,",
+    "begins_with" : "O Lord My God",
     "tag" : "Main",
     "note" : ""
   },
@@ -1813,7 +1813,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "O My dove\r\nThat art",
+    "begins_with" : "O My dove That",
     "tag" : "Main",
     "note" : ""
   },
@@ -1822,7 +1822,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "Oh persevere\r\nBe strong and",
+    "begins_with" : "Oh persevere Be strong",
     "tag" : "Main",
     "note" : ""
   },
@@ -1831,7 +1831,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "O worship the Lord\r\nIn",
+    "begins_with" : "O worship the Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -1840,7 +1840,7 @@
     "arrangement" : null,
     "start_key" : "Em",
     "tempo" : 3,
-    "begins_with" : "One thing \r\nHave I",
+    "begins_with" : "One thing  Have",
     "tag" : "Main",
     "note" : ""
   },
@@ -1849,12 +1849,12 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "Only Jesus \r\nCan satisfy",
+    "begins_with" : "Only Jesus  Can",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - People Need The Lord",
+    "title" : "People Need The Lord",
     "arrangement" : "Every day \r\nthey pass me by,",
     "start_key" : "C",
     "tempo" : 1,
@@ -1867,7 +1867,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 1,
-    "begins_with" : "Pour out yourself\r\nPour out",
+    "begins_with" : "Pour out yourself Pour",
     "tag" : "Main",
     "note" : ""
   },
@@ -1876,7 +1876,7 @@
     "arrangement" : "Would you be free\r\nWhat can wash away my sins",
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Would you be free\r\n(Quieres",
+    "begins_with" : "Would you be free",
     "tag" : "Main",
     "note" : ""
   },
@@ -1912,12 +1912,12 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Praise the Lord\r\nPraise the",
+    "begins_with" : "Praise the Lord Praise",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Praise The Lord-When You're Up Against",
+    "title" : "When You're Up Against",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
@@ -1957,7 +1957,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "Behold \r\nHow good and",
+    "begins_with" : "Behold  How good",
     "tag" : "Main",
     "note" : ""
   },
@@ -1993,7 +1993,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Rejoice evermore\r\n(Regocíjate siempre)\r\nFor this",
+    "begins_with" : "Rejoice evermore (Regocíjate siempre)",
     "tag" : "Main",
     "note" : ""
   },
@@ -2002,7 +2002,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 4,
-    "begins_with" : "Rejoice greatly,\r\n(Alégrate mucho)\r\nO daughter",
+    "begins_with" : "Rejoice greatly, (Alégrate mucho)",
     "tag" : "Main",
     "note" : ""
   },
@@ -2011,7 +2011,7 @@
     "arrangement" : null,
     "start_key" : "Em\/Fm\/Ab",
     "tempo" : 4,
-    "begins_with" : "Rejoice in the Lord\r\n(Regocíjate",
+    "begins_with" : "Rejoice in the Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -2020,7 +2020,7 @@
     "arrangement" : null,
     "start_key" : "Bb\/C",
     "tempo" : 3,
-    "begins_with" : "Rock of Ages \r\nYou",
+    "begins_with" : "Rock of Ages ",
     "tag" : "Main",
     "note" : ""
   },
@@ -2029,7 +2029,7 @@
     "arrangement" : "You are the King,\r\nThe Almighty Savior, ",
     "start_key" : "Eb",
     "tempo" : 4,
-    "begins_with" : "You are the King\r\n(Tu",
+    "begins_with" : "You are the King",
     "tag" : "Main",
     "note" : ""
   },
@@ -2056,7 +2056,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "Seek ye first \r\nThe",
+    "begins_with" : "Seek ye first ",
     "tag" : "Main",
     "note" : ""
   },
@@ -2065,7 +2065,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Send out Thy light\r\nAnd",
+    "begins_with" : "Send out Thy light",
     "tag" : "Main",
     "note" : ""
   },
@@ -2074,7 +2074,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "Shepherd of my soul\r\n(pastor",
+    "begins_with" : "Shepherd of my soul",
     "tag" : "Main",
     "note" : ""
   },
@@ -2083,7 +2083,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 4,
-    "begins_with" : "Shouts of joy\r\nAnd victory",
+    "begins_with" : "Shouts of joy And",
     "tag" : "Main",
     "note" : ""
   },
@@ -2119,7 +2119,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "Something beautiful \r\n(Algo hermoso)\r\nSomething",
+    "begins_with" : "Something beautiful  (Algo",
     "tag" : "Main",
     "note" : ""
   },
@@ -2128,7 +2128,7 @@
     "arrangement" : "Piano intro...",
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Soon and very soon\r\n(Pronto",
+    "begins_with" : "Soon and very soon",
     "tag" : "Main",
     "note" : ""
   },
@@ -2146,7 +2146,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 1,
-    "begins_with" : "There's a sweet\r\nSweet Spirit",
+    "begins_with" : "There's a sweet Sweet",
     "tag" : "Main",
     "note" : ""
   },
@@ -2155,7 +2155,7 @@
     "arrangement" : "Piano intro...",
     "start_key" : "F\/F#",
     "tempo" : 2,
-    "begins_with" : "Take up your cross\r\nAnd",
+    "begins_with" : "Take up your cross",
     "tag" : "Main",
     "note" : ""
   },
@@ -2164,7 +2164,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Thank You, Lord\r\n(Gracias Señor)\r\nYou",
+    "begins_with" : "Thank You, Lord (Gracias",
     "tag" : "Main",
     "note" : ""
   },
@@ -2173,7 +2173,7 @@
     "arrangement" : "In heavenly armor\r\nWe'll enter the land",
     "start_key" : "Fm",
     "tempo" : 3,
-    "begins_with" : "In heavenly armor\r\n(Con la",
+    "begins_with" : "In heavenly armor (Con",
     "tag" : "Main",
     "note" : ""
   },
@@ -2182,7 +2182,7 @@
     "arrangement" : "They shall \r\nLift up their voice",
     "start_key" : "G\/Ab\/A\/Bb",
     "tempo" : 5,
-    "begins_with" : "They shall \r\nLift up",
+    "begins_with" : "They shall  Lift",
     "tag" : "Main",
     "note" : ""
   },
@@ -2191,7 +2191,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "The blood that Jesus\r\n(La",
+    "begins_with" : "The blood that Jesus",
     "tag" : "Main",
     "note" : ""
   },
@@ -2200,7 +2200,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "The greatest thing\r\nIn all",
+    "begins_with" : "The greatest thing In",
     "tag" : "Main",
     "note" : ""
   },
@@ -2227,7 +2227,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "The Lord is good\r\nThe",
+    "begins_with" : "The Lord is good",
     "tag" : "Main",
     "note" : ""
   },
@@ -2236,7 +2236,7 @@
     "arrangement" : "The Lord is Holy",
     "start_key" : "Bb",
     "tempo" : 2,
-    "begins_with" : "The Lord is holy\r\n(Dios",
+    "begins_with" : "The Lord is holy",
     "tag" : "Main",
     "note" : ""
   },
@@ -2263,7 +2263,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "The Lord liveth \r\nBlessed",
+    "begins_with" : "The Lord liveth ",
     "tag" : "Main",
     "note" : ""
   },
@@ -2272,7 +2272,7 @@
     "arrangement" : null,
     "start_key" : "Gm",
     "tempo" : 4,
-    "begins_with" : "The Lord reigneth\r\nLet the",
+    "begins_with" : "The Lord reigneth Let",
     "tag" : "Main",
     "note" : ""
   },
@@ -2281,7 +2281,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "The Lord reigns\r\nLet the",
+    "begins_with" : "The Lord reigns Let",
     "tag" : "Main",
     "note" : ""
   },
@@ -2290,7 +2290,7 @@
     "arrangement" : null,
     "start_key" : "D",
     "tempo" : 3,
-    "begins_with" : "The Lord thy God\r\nIn",
+    "begins_with" : "The Lord thy God",
     "tag" : "Main",
     "note" : ""
   },
@@ -2308,7 +2308,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "The Savior is waiting\r\nTo",
+    "begins_with" : "The Savior is waiting",
     "tag" : "Main",
     "note" : ""
   },
@@ -2335,7 +2335,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "The steadfast love\r\nOf the",
+    "begins_with" : "The steadfast love Of",
     "tag" : "Main",
     "note" : ""
   },
@@ -2344,7 +2344,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 2,
-    "begins_with" : "They that trust\r\n(Los que",
+    "begins_with" : "They that trust (Los",
     "tag" : "Main",
     "note" : ""
   },
@@ -2362,7 +2362,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "They that wait\r\n(Ellos que",
+    "begins_with" : "They that wait (Ellos",
     "tag" : "Main",
     "note" : ""
   },
@@ -2371,7 +2371,7 @@
     "arrangement" : null,
     "start_key" : "C\/F",
     "tempo" : 4,
-    "begins_with" : "Thine O Lord \r\nIs",
+    "begins_with" : "Thine O Lord ",
     "tag" : "Main",
     "note" : ""
   },
@@ -2380,7 +2380,7 @@
     "arrangement" : null,
     "start_key" : "D\/Eb",
     "tempo" : 2,
-    "begins_with" : "Think about His love\r\nThink",
+    "begins_with" : "Think about His love",
     "tag" : "Main",
     "note" : ""
   },
@@ -2398,7 +2398,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "This is My commandment\r\n(Este",
+    "begins_with" : "This is My commandment",
     "tag" : "Main",
     "note" : ""
   },
@@ -2407,7 +2407,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "This is the day\r\nThis",
+    "begins_with" : "This is the day",
     "tag" : "Main",
     "note" : ""
   },
@@ -2434,7 +2434,7 @@
     "arrangement" : null,
     "start_key" : "Gm",
     "tempo" : 3,
-    "begins_with" : "Thou art fairer\r\nThan the",
+    "begins_with" : "Thou art fairer Than",
     "tag" : "Main",
     "note" : ""
   },
@@ -2443,7 +2443,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Thou art worthy\r\n(Tu eres",
+    "begins_with" : "Thou art worthy (Tu",
     "tag" : "Main",
     "note" : ""
   },
@@ -2452,7 +2452,7 @@
     "arrangement" : null,
     "start_key" : "C\/Eb",
     "tempo" : 2,
-    "begins_with" : "Thou O Lord\r\nArt a",
+    "begins_with" : "Thou O Lord Art",
     "tag" : "Main",
     "note" : "Art"
   },
@@ -2479,7 +2479,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "Thy way O God\r\nIs",
+    "begins_with" : "Thy way O God",
     "tag" : "Main",
     "note" : ""
   },
@@ -2502,7 +2502,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - Trees Of The Field",
+    "title" : "Trees Of The Field",
     "arrangement" : "You shall go out with joy\r\nAnd be led forth with peace...",
     "start_key" : "Dm",
     "tempo" : 1,
@@ -2511,7 +2511,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - Unto The Lord",
+    "title" : "Unto The Lord",
     "arrangement" : null,
     "start_key" : "G\/Ab",
     "tempo" : 2,
@@ -2542,7 +2542,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 1,
-    "begins_with" : "We are standing\r\nOn holy",
+    "begins_with" : "We are standing On",
     "tag" : "Main",
     "note" : ""
   },
@@ -2569,7 +2569,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "We give You praise\r\nWe",
+    "begins_with" : "We give You praise",
     "tag" : "Main",
     "note" : ""
   },
@@ -2578,7 +2578,7 @@
     "arrangement" : "The sky shall unfold,",
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "The sky shall unfold\r\nPreparing",
+    "begins_with" : "The sky shall unfold",
     "tag" : "Main",
     "note" : ""
   },
@@ -2605,7 +2605,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "When I look \r\nInto",
+    "begins_with" : "When I look ",
     "tag" : "Main",
     "note" : ""
   },
@@ -2632,7 +2632,7 @@
     "arrangement" : null,
     "start_key" : "Eb\/F",
     "tempo" : 3,
-    "begins_with" : "Why so downcast\r\n(porque estas",
+    "begins_with" : "Why so downcast (porque",
     "tag" : "Main",
     "note" : ""
   },
@@ -2655,7 +2655,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - Worthy Is the Lamb That Was Slain",
+    "title" : "Worthy Is the Lamb That Was Slain",
     "arrangement" : null,
     "start_key" : "Ab",
     "tempo" : 2,
@@ -2668,7 +2668,7 @@
     "arrangement" : "I say, Yes, \r\nLord, yes,",
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "I say,\r\n(Yo digo)\r\n\"Yes, Lord,",
+    "begins_with" : "I say, (Yo digo)",
     "tag" : "Main",
     "note" : ""
   },
@@ -2695,7 +2695,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "You are crowned\r\n(eres coronado)",
+    "begins_with" : "You are crowned (eres",
     "tag" : "Main",
     "note" : ""
   },
@@ -2704,7 +2704,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "You are my God\r\nAnd",
+    "begins_with" : "You are my God",
     "tag" : "Main",
     "note" : ""
   },
@@ -2736,7 +2736,7 @@
     "note" : ""
   },
   {
-    "title" : "x Jesus, Lover Of My Soul",
+    "title" : "Jesus, Lover Of My Soul",
     "arrangement" : "Piano intro...",
     "start_key" : "F\/G",
     "tempo" : 3,
@@ -2776,7 +2776,7 @@
     "arrangement" : null,
     "start_key" : "Bb\/C",
     "tempo" : 1,
-    "begins_with" : "Commune with me.\r\nCommune with",
+    "begins_with" : "Commune with me. Commune",
     "tag" : "Main",
     "note" : ""
   },
@@ -2785,7 +2785,7 @@
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "O God \r\nThou art",
+    "begins_with" : "O God  Thou",
     "tag" : "Main",
     "note" : ""
   },
@@ -2803,12 +2803,12 @@
     "arrangement" : null,
     "start_key" : "G",
     "tempo" : 3,
-    "begins_with" : "He who \r\n(Él que)",
+    "begins_with" : "He who  (Él",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - Search Me O God",
+    "title" : "Search Me O God",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
@@ -2826,7 +2826,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - Silver & Gold Have I None",
+    "title" : "Silver & Gold Have I None",
     "arrangement" : null,
     "start_key" : "Bb",
     "tempo" : 2,
@@ -2839,7 +2839,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 4,
-    "begins_with" : "Jehovah Jireh\r\n(Jehová Jireh)\r\nMy provider",
+    "begins_with" : "Jehovah Jireh (Jehová Jireh)",
     "tag" : "Main",
     "note" : ""
   },
@@ -2848,7 +2848,7 @@
     "arrangement" : "Truth and beauty,\r\nPeace and rest",
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "Truth and beauty,\r\nPeace and",
+    "begins_with" : "Truth and beauty, Peace",
     "tag" : "Main",
     "note" : ""
   },
@@ -2857,7 +2857,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Be exalted, O God,\r\nAbove",
+    "begins_with" : "Be exalted, O God,",
     "tag" : "Main",
     "note" : "I Love You Lord"
   },
@@ -2866,7 +2866,7 @@
     "arrangement" : "Clap your hands all ye people, shout unto God...",
     "start_key" : "C",
     "tempo" : 4,
-    "begins_with" : "Clap your hands,\r\n(Batid las",
+    "begins_with" : "Clap your hands, (Batid",
     "tag" : "Main",
     "note" : ""
   },
@@ -2875,7 +2875,7 @@
     "arrangement" : "Father God \r\nMy arms are open wide",
     "start_key" : "D\/Eb",
     "tempo" : 2,
-    "begins_with" : "Father God, \r\nMy arms",
+    "begins_with" : "Father God,  My",
     "tag" : "Main",
     "note" : ""
   },
@@ -2893,7 +2893,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "Make a joyful noise\r\n(haz",
+    "begins_with" : "Make a joyful noise",
     "tag" : "Main",
     "note" : ""
   },
@@ -2902,7 +2902,7 @@
     "arrangement" : "There'll be times\r\nwhen things \r\nwon't fall together...",
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "There'll be times\r\nWhen things",
+    "begins_with" : "There'll be times When",
     "tag" : "Main",
     "note" : ""
   },
@@ -2911,7 +2911,7 @@
     "arrangement" : "Praise the Lamb, Give Him glory",
     "start_key" : "Em",
     "tempo" : 4,
-    "begins_with" : "Praise the Lamb\r\nGive Him",
+    "begins_with" : "Praise the Lamb Give",
     "tag" : "Main",
     "note" : ""
   },
@@ -2920,7 +2920,7 @@
     "arrangement" : "You're the Solid Rock\r\nOn which I stand",
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "You're the Solid Rock\r\n(Eres",
+    "begins_with" : "You're the Solid Rock",
     "tag" : "Main",
     "note" : ""
   },
@@ -2943,11 +2943,11 @@
     "note" : ""
   },
   {
-    "title" : "x Shout to the Lord",
+    "title" : "Shout to the Lord",
     "arrangement" : "Piano intro... My Jesus, my Savior",
     "start_key" : "Ab\/Bb",
     "tempo" : 3,
-    "begins_with" : "My Jesus, my Savior\r\nLord,",
+    "begins_with" : "My Jesus, my Savior",
     "tag" : "Youth",
     "note" : ""
   },
@@ -2970,7 +2970,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - I Hear Your Voice",
+    "title" : "I Hear Your Voice",
     "arrangement" : "O Lord Your Spirit \r\nShowed me what I am",
     "start_key" : "F",
     "tempo" : 1,
@@ -2979,7 +2979,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - There is None Like You",
+    "title" : "There is None Like You",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
@@ -3001,7 +3001,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 1,
-    "begins_with" : "Gentle Shepherd \r\nCome and",
+    "begins_with" : "Gentle Shepherd  Come",
     "tag" : "Main",
     "note" : ""
   },
@@ -3019,7 +3019,7 @@
     "arrangement" : "(rhythm intro)",
     "start_key" : "D",
     "tempo" : 2,
-    "begins_with" : "Jesus, all for Jesus\r\n(Jesús,",
+    "begins_with" : "Jesus, all for Jesus",
     "tag" : "Main",
     "note" : ""
   },
@@ -3037,7 +3037,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "Almighty, most holy God,\r\n(Todopoderoso,",
+    "begins_with" : "Almighty, most holy God,",
     "tag" : "Main",
     "note" : ""
   },
@@ -3060,11 +3060,11 @@
     "note" : ""
   },
   {
-    "title" : "Q - If You Want Joy",
+    "title" : "If You Want Joy",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "If you want joy\r\nReal",
+    "begins_with" : "If you want joy",
     "tag" : "Special",
     "note" : ""
   },
@@ -3082,7 +3082,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 4,
-    "begins_with" : "Bless Ye the Lord,\r\nAll",
+    "begins_with" : "Bless Ye the Lord,",
     "tag" : "Main",
     "note" : "All Ye Servants"
   },
@@ -3091,7 +3091,7 @@
     "arrangement" : "4 measure intro...",
     "start_key" : "C",
     "tempo" : 1,
-    "begins_with" : "He is able\r\n(Él es",
+    "begins_with" : "He is able (Él",
     "tag" : "Main",
     "note" : "More than able"
   },
@@ -3109,7 +3109,7 @@
     "arrangement" : null,
     "start_key" : "Bb",
     "tempo" : 2,
-    "begins_with" : "O Lord,\r\n(Oh Jehová)\r\nHow manifold",
+    "begins_with" : "O Lord, (Oh Jehová)",
     "tag" : "Main",
     "note" : "O Lord, How Manifold"
   },
@@ -3127,7 +3127,7 @@
     "arrangement" : "Arrangement:\r\n\r\nWith our lips let us sing",
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "With our lips \r\nLet",
+    "begins_with" : "With our lips ",
     "tag" : "Main",
     "note" : ""
   },
@@ -3150,11 +3150,11 @@
     "note" : ""
   },
   {
-    "title" : "Q - We Overcame Him",
+    "title" : "We Overcame Him",
     "arrangement" : "Now is come, \r\nsalvation, and strength,",
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Now is come\r\nSalvation and",
+    "begins_with" : "Now is come Salvation",
     "tag" : "Special",
     "note" : ""
   },
@@ -3168,7 +3168,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - It Is Well With My Soul",
+    "title" : "It Is Well With My Soul",
     "arrangement" : "When peace like a river,",
     "start_key" : "Bb",
     "tempo" : 2,
@@ -3181,7 +3181,7 @@
     "arrangement" : null,
     "start_key" : "Dm",
     "tempo" : 5,
-    "begins_with" : "Zion's in our hearts\r\n(Sion",
+    "begins_with" : "Zion's in our hearts",
     "tag" : "Main",
     "note" : ""
   },
@@ -3190,16 +3190,16 @@
     "arrangement" : "You said You'd be there\r\nFor all my sorrows,",
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "You said You'd come\r\nAnd",
+    "begins_with" : "You said You'd come",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - Beloved Let Us Love One Another",
+    "title" : "Beloved Let Us Love One Another",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "Beloved \r\nLet us love",
+    "begins_with" : "Beloved  Let us",
     "tag" : "Special",
     "note" : ""
   },
@@ -3208,12 +3208,12 @@
     "arrangement" : "Blessed be\r\nThe Lord God \r\nThe God of Israel",
     "start_key" : "Eb",
     "tempo" : 3,
-    "begins_with" : "Blessed be\r\nThe Lord God,",
+    "begins_with" : "Blessed be The Lord",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q-Alma Mater",
+    "title" : "Alma Mater",
     "arrangement" : "Dear to heart and memory",
     "start_key" : "Eb\/Ab",
     "tempo" : 1,
@@ -3222,7 +3222,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - Embrace The Cross",
+    "title" : "Embrace The Cross",
     "arrangement" : "I am crucified with Christ\r\nTherefore I no longer live",
     "start_key" : "Ab",
     "tempo" : 1,
@@ -3231,11 +3231,11 @@
     "note" : ""
   },
   {
-    "title" : "Q - He's The Saviour Of My Soul",
+    "title" : "He's The Saviour Of My Soul",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "He's the Saviour\r\nOf my",
+    "begins_with" : "He's the Saviour Of",
     "tag" : "Special",
     "note" : ""
   },
@@ -3244,7 +3244,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "Let it breathe\r\nOn me\r\nLet",
+    "begins_with" : "Let it breathe On",
     "tag" : "Main",
     "note" : ""
   },
@@ -3253,16 +3253,16 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "One thing have I\r\nDesired",
+    "begins_with" : "One thing have I",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - His Eye Is On The Sparrow",
+    "title" : "His Eye Is On The Sparrow",
     "arrangement" : "Why should I feel\r\nDiscouraged",
     "start_key" : "Bb",
     "tempo" : 2,
-    "begins_with" : "Why should I feel\r\nDiscouraged\r\nWhy",
+    "begins_with" : "Why should I feel",
     "tag" : "Special",
     "note" : ""
   },
@@ -3280,7 +3280,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "Glory, Glory, Hallelujah,\r\nSince I",
+    "begins_with" : "Glory, Glory, Hallelujah, Since",
     "tag" : "Main",
     "note" : ""
   },
@@ -3325,7 +3325,7 @@
     "arrangement" : "(intro) We are a moment..\r\nWe are the broken\r\n",
     "start_key" : "C\/D",
     "tempo" : 1,
-    "begins_with" : "We are a moment;\r\nYou",
+    "begins_with" : "We are a moment;",
     "tag" : "Main",
     "note" : ""
   },
@@ -3334,16 +3334,16 @@
     "arrangement" : null,
     "start_key" : "Em",
     "tempo" : 4,
-    "begins_with" : "King of Kings\r\n(Rey de",
+    "begins_with" : "King of Kings (Rey",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - We Will Glorify The King Of Kings",
+    "title" : "We Will Glorify The King Of Kings",
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "We will glorify\r\nThe King",
+    "begins_with" : "We will glorify The",
     "tag" : "Special",
     "note" : ""
   },
@@ -3361,7 +3361,7 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Bless the Lord,\r\nO my",
+    "begins_with" : "Bless the Lord, O",
     "tag" : "Main",
     "note" : "Crouch"
   },
@@ -3375,11 +3375,11 @@
     "note" : ""
   },
   {
-    "title" : "Q - You Are My Everything",
+    "title" : "You Are My Everything",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "You are my everything\r\nYou",
+    "begins_with" : "You are my everything",
     "tag" : "Special",
     "note" : ""
   },
@@ -3388,30 +3388,30 @@
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 4,
-    "begins_with" : "My heart is fixed,\r\nMy",
+    "begins_with" : "My heart is fixed,",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - For Thou Oh Lord, Art A God Full Of Compassion",
+    "title" : "For Thou Oh Lord, Art A God Full Of Compassion",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 3,
-    "begins_with" : "For Thou Oh Lord\r\nart",
+    "begins_with" : "For Thou Oh Lord",
     "tag" : "Special",
     "note" : ""
   },
   {
-    "title" : "Q - Complete, Complete",
+    "title" : "Complete, Complete",
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 4,
-    "begins_with" : "Complete,  complete,\r\nComplete in",
+    "begins_with" : "Complete,  complete, Complete",
     "tag" : "Special",
     "note" : ""
   },
   {
-    "title" : "Q - Spirit Of The Living God",
+    "title" : "Spirit Of The Living God",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
@@ -3420,20 +3420,20 @@
     "note" : ""
   },
   {
-    "title" : "Q - I can Say That I Love You",
+    "title" : "I can Say That I Love You",
     "arrangement" : null,
     "start_key" : "Bb",
     "tempo" : 1,
-    "begins_with" : "I can say that\r\nI",
+    "begins_with" : "I can say that",
     "tag" : "Special",
     "note" : ""
   },
   {
-    "title" : "Q - White as Snow",
+    "title" : "White as Snow",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "White as snow\r\nWhite as",
+    "begins_with" : "White as snow White",
     "tag" : "Special",
     "note" : ""
   },
@@ -3447,7 +3447,7 @@
     "note" : ""
   },
   {
-    "title" : "Q - Take Me To The Water",
+    "title" : "Take Me To The Water",
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 3,
@@ -3460,7 +3460,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 2,
-    "begins_with" : "He made something beautiful\r\nSomething",
+    "begins_with" : "He made something beautiful",
     "tag" : "Main",
     "note" : ""
   },
@@ -3469,16 +3469,16 @@
     "arrangement" : "(Piano Intro) Get all excited go tell everybody",
     "start_key" : "G",
     "tempo" : 4,
-    "begins_with" : "Get all excited\r\n(Emocionense)\r\nGo tell",
+    "begins_with" : "Get all excited (Emocionense)",
     "tag" : "Main",
     "note" : ""
   },
   {
-    "title" : "Q - He Was Wounded",
+    "title" : "He Was Wounded",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 1,
-    "begins_with" : "He was wounded\r\nFor our",
+    "begins_with" : "He was wounded For",
     "tag" : "Special",
     "note" : ""
   },
@@ -3487,7 +3487,7 @@
     "arrangement" : null,
     "start_key" : "Eb",
     "tempo" : 3,
-    "begins_with" : "Unto thee oh Lord\r\nDo",
+    "begins_with" : "Unto thee oh Lord",
     "tag" : "Main",
     "note" : ""
   },
@@ -3501,7 +3501,7 @@
     "note" : "6\/4"
   },
   {
-    "title" : "Q - The Love of God",
+    "title" : "The Love of God",
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 2,
@@ -3514,25 +3514,25 @@
     "arrangement" : null,
     "start_key" : "G",
     "tempo" : 2,
-    "begins_with" : "Alleluia  Alleluia\r\n(Aleluya Aleluya)\r\nFor",
+    "begins_with" : "Alleluia  Alleluia (Aleluya",
     "tag" : "Main",
     "note" : "Agnus Dei"
   },
   {
-    "title" : "Q - Just A Closer Walk With Thee",
+    "title" : "Just A Closer Walk With Thee",
     "arrangement" : null,
     "start_key" : "Ab",
     "tempo" : 3,
-    "begins_with" : "Just a closer\r\nWalk with",
+    "begins_with" : "Just a closer Walk",
     "tag" : "Special",
     "note" : ""
   },
   {
-    "title" : "Q - Be Ye Holy",
+    "title" : "Be Ye Holy",
     "arrangement" : null,
     "start_key" : "F",
     "tempo" : 2,
-    "begins_with" : "Be ye holy\r\nHoly\r\nFor the",
+    "begins_with" : "Be ye holy Holy",
     "tag" : "Special",
     "note" : ""
   },
@@ -3541,7 +3541,7 @@
     "arrangement" : "You are enthroned\r\nOh Holy One",
     "start_key" : "Gm",
     "tempo" : 3,
-    "begins_with" : "You are enthroned, \r\nO",
+    "begins_with" : "You are enthroned, ",
     "tag" : "Main",
     "note" : ""
   },
@@ -3568,7 +3568,7 @@
     "arrangement" : null,
     "start_key" : "G\/Ab",
     "tempo" : 3,
-    "begins_with" : "I will awake \r\nIn",
+    "begins_with" : "I will awake ",
     "tag" : "Main",
     "note" : "I Will Awake"
   },
@@ -3577,7 +3577,7 @@
     "arrangement" : "Unto the King eternal, unto the King immortal...",
     "start_key" : "C",
     "tempo" : 2,
-    "begins_with" : "Unto the King eternal\r\n(Para",
+    "begins_with" : "Unto the King eternal",
     "tag" : "Main",
     "note" : ""
   },
@@ -3591,3900 +3591,12 @@
     "note" : ""
   },
   {
-    "title" : "Q - Real Real Real Real",
+    "title" : "Real Real Real Real",
     "arrangement" : null,
     "start_key" : "C",
     "tempo" : 3,
-    "begins_with" : "Real real real real\r\nHe's",
+    "begins_with" : "Real real real real",
     "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "I Will Be Sanctified\/O Give Thanks",
-    "arrangement" : null,
-    "start_key" : "Am",
-    "tempo" : 4,
-    "begins_with" : "I will be sanctified,",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Bless That Wonderful Name",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Bless that wonderful name",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "O Fear The Lord (Those Who Look to Him)",
-    "arrangement" : "Those who look to Him \r\nare radiant",
-    "start_key" : "Bb",
-    "tempo" : 2,
-    "begins_with" : "Those who look to",
-    "tag" : "Main",
-    "note" : "Those Who Look to Him"
-  },
-  {
-    "title" : "I Have Put My Trust",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 1,
-    "begins_with" : "I have put my",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - For I Am the Lord",
-    "arrangement" : null,
-    "start_key" : "Cm",
-    "tempo" : 1,
-    "begins_with" : "I have delivered you",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Make Me A Servant",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Make me a servant\r\nHumble",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "God Bless America",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "As the storm clouds",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Open Your Eyes",
-    "arrangement" : null,
-    "start_key" : "C\/D",
-    "tempo" : 1,
-    "begins_with" : "Open your eyes\r\nTo the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "All To Jesus, (I Surrender All)",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "All to Jesus, I",
-    "tag" : "Main",
-    "note" : "I Surrender All"
-  },
-  {
-    "title" : "Beautiful, Beautiful Jesus is Beautiful",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Beautiful, beautiful\r\n(Hermoso, hermoso)\r\nJesus is",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Cause Me To Come To Thy River",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Cause me to come\r\nTo",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Come Let Us Sing\/It is a Good Thing\/Happy, Happy",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Come, let us sing",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - For The Lord Has Chosen Zion",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 4,
-    "begins_with" : "For the Lord\r\nHas chosen",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - For Thou Art Great",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 1,
-    "begins_with" : "For Thou art great",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Fresh Oil From the Throne",
-    "arrangement" : "Your Name is as Ointment \r\nLet Him Breathe on Me\r\nThere is a River\r\n",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Fresh oil from the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "God's Not Dead",
-    "arrangement" : "Sing With:\r\nGod's Got an Army\r\nMy Heart is Fixed\r\nSing Until the Power\r\nSend Down the Rain",
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "God's not dead, He",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - He's Able, He's Able",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "He's able\r\nHe's able\r\nI know",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - He That Believeth On Me",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "He that believeth\r\nOn Me",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "I Want More of Jesus",
-    "arrangement" : "Sing with:\r\nI'm so glad, Jesus set me free\r\nMy Sins are under the Blood\r\nPraise Ye the Lord",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "I want more of",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "God's Got An Army",
-    "arrangement" : "Sing With:\r\nGod's Not Dead\r\nMy Heart is Fixed\r\nSing Until the Power\r\nSend Down the Rain",
-    "start_key" : "F",
-    "tempo" : 5,
-    "begins_with" : "God's got an army\r\n(Dios",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Great Is The Lord (and Greatly To Be Praised)",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Great is the Lord",
-    "tag" : "Special",
-    "note" : "and Greatly To Be Praised"
-  },
-  {
-    "title" : "Q - He's The Lord Of Glory",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 4,
-    "begins_with" : "He's the Lord of",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - His Name Is Wonderful",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "His name is wonderful\r\nHis",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Am The Way, I Am The Truth",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "I am the way\r\nI",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Only Believe",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 1,
-    "begins_with" : "Only believe\r\nOnly believe\r\nAll things\r\nAre",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Abba Abba Father",
-    "arrangement" : "God sent His son\r\nmade of a woman",
-    "start_key" : "F",
-    "tempo" : 1,
-    "begins_with" : "God sent His Son,\r\nMade",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Justified By Faith",
-    "arrangement" : "Therefore being jusified\r\nBy Faith",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Therefore being jusified\r\nBy Faith\r\nWe",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "No One Like You Lord",
-    "arrangement" : "You are the stone that\r\nThe builders rejected\r\n(piano intro...)",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "You are the stone",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - If Ye Then Be Risen With Christ",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "If ye then be",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Not By Might",
-    "arrangement" : "Piano intro...\r\nNo, not by might\r\nNor even power\r\nBut by your spirit",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "No not by might\r\n(No,",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Will Bless The Lord At All Times",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "I will bless the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Will Bless You O Lord",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "I will bless You\r\nO",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Jesus, Jesus, Jesus, There's Just something",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 1,
-    "begins_with" : "Jesus, Jesus, Jesus,\r\nthere's just",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Jesus, Name Above All Names",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Jesus name above\r\nAll names\r\nBeautiful",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Blessed is the Man that Feareth the Lord",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "Blessed is the man\r\n(Bienaventurado",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Wait For It",
-    "arrangement" : "Our God has given\r\n a revelation ",
-    "start_key" : "Dm",
-    "tempo" : 3,
-    "begins_with" : "Our God has given",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Peace I Give Unto You",
-    "arrangement" : "Peace I give unto you \r\nMy peace I give unto you",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Peace I give to",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Just Want To Be Where You Are",
-    "arrangement" : "Rubato   (no choir and no rhythm)  \r\nDo not conduct",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "I just want to",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "My Country 'Tis Of Thee",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "My country 'tis of",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q-Star  Spangled Banner",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Oh say can you",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Refuge and Strength",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "You O Lord\r\nAre my",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Hallelujah",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "You ride on a",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Surely Goodness And Mercy",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Surely goodness\r\nAnd mercy shall",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Every Day",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Every day He is",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Whoso Offereth Praise",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Whoso offereth praise\r\nGlorifieth me\r\nWhoso",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Our Great God",
-    "arrangement" : "Eternal God,\r\nUnchanging\r\n(Guitar intro...)",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Eternal God unchanging\r\nPrecious Cornerstone\r\nYour",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - There Is A Place Of Commanded Blessing",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "There is a place",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Sing To Jesus",
-    "arrangement" : "(Guitar music)",
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Come and see \r\nLook",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Bless The Name Yeshua",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "We worship you O",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - King Of Kings",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "King of Kings\r\nAnd Lord",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Hallelujah, I Am Saved",
-    "arrangement" : "Lord You pardoned my\r\n transgressions",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Lord You pardoned \r\nMy",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - If The Same Spirit",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "If the same spirit\r\nthat",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Everything Cries Holy",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "We see the Lord",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Be Exalted",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Be exalted Lord let",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Kings And Nations",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Kings and nations\r\nAll shall",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Higher Ground",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Higher ground\r\nYou set my",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Here Is Love",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Here is love vast\r\nAs",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Great Love",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "My heart will sing",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Holy Holy",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 2,
-    "begins_with" : "Holy Holy\r\nHoly Holy is",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Thou Art My Hiding Place",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Thou art my hiding",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Thy Name Is As Ointment",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Thy name is as",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Forever",
-    "arrangement" : "Piano intro...\r\nGive thanks to the Lord...",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "Give thanks to the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "In The Presence Of Jehovah",
-    "arrangement" : "In the presence of Jehovah",
-    "start_key" : "C\/Db",
-    "tempo" : 1,
-    "begins_with" : "In the presence\r\nOf Jehovah\r\nGod",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Let God Arise Let His enemies",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Let God arise\r\nLet His",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "O Praise The Lord, All Ye Nations\/Thou Has Turned",
-    "arrangement" : "4 Measure intro...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "O praise the Lord\r\nO",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - For Thy Maker Is Thy Husband",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "For thy maker \r\nIs",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "God Is So Good",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "God is so good\r\n(Dios",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Not By Works Of Righteousness",
-    "arrangement" : "Not by works of righteousness\r\nThat we have done",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Not by works of\r\nRighteousness\r\nThat",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Psalm 138",
-    "arrangement" : null,
-    "start_key" : "Am",
-    "tempo" : 3,
-    "begins_with" : "I will praise thee\r\nWith",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Blessed Be Your Name",
-    "arrangement" : "(Intro) Blessed be Your name\r\nIn the land that is plentiful\r\nWhen I'm found in the desert place",
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "Blessed be Your name\r\n(Bendecido",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Behold I Stand At The Door",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Behold I stand at",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - To Him That Overcometh",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "To him that overcometh\r\nWill",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Through It All",
-    "arrangement" : "I've had many tears and sorrows",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "I've had many tears\r\nAnd",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - More Love To Thee",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "More love to Thee",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Come, Now is the Time",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 2,
-    "begins_with" : "Come, now is the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "My Glory And The Lifter Of My Head",
-    "arrangement" : "You're my glory and the lifter of my head",
-    "start_key" : "Bb",
-    "tempo" : 4,
-    "begins_with" : "You're my glory and\r\nThe",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - He Lives",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 4,
-    "begins_with" : "Amazing grace\r\nHow sweet the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - The Easter Song",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Hear the bells ringing\r\nThey're",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Fall on me",
-    "arrangement" : null,
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "Lord You are beautiful\r\nYour",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Outrageous Grace",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "There's a lot of",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Our God is Faithful",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "Our God is Faithful",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Though the Fig Tree",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Though the fig tree\r\nDoes",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - We Have An Anchor",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "We have an anchor\r\nThat",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "He is Jehovah",
-    "arrangement" : "(Intro)",
-    "start_key" : "Em",
-    "tempo" : 3,
-    "begins_with" : "He is Jehovah,\r\nGod of",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Therefore The Redeemed",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 3,
-    "begins_with" : "Therefore the redeemed\r\nOf the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I've Got Something That The World",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "I've got something\r\nThat the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "All Who Are Thirsty",
-    "arrangement" : "(piano intro...)",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "All who are thirsty\r\n(Todos",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Thy Loving Kindness",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Thy loving kindness,\r\nis better",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Heaven Medley",
-    "arrangement" : "(Piano intro)  I've a home prepared",
-    "start_key" : "G\/Db\/Eb\/Ab",
-    "tempo" : 4,
-    "begins_with" : "I've a home prepared\r\nWhere",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Humble Yourselves Therefore\/ You Are My Strength Oh God",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Humbles yourselves therefore\r\nUnder the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Trust In The Lord With All Of Your Heart",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Trust in the Lord\r\nwith",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - What a Day That Will Be",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "There is coming a",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Just As I Am",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Just as I am,",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - My Jesus I Love Thee",
-    "arrangement" : "My Jesus I love thee, I know thou art mine",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "My Jesus, I love",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Farther Along",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Tempted and tried\r\nWe're oft",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Jesus, Hold My Hand",
-    "arrangement" : "Orchestra intro...\r\nAs I travel through this pilgrim land",
-    "start_key" : "Eb",
-    "tempo" : 4,
-    "begins_with" : "As I travel through\r\nThis",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Jesus Paid It All",
-    "arrangement" : "I hear the Savior say",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "I hear the Saviour",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Pass Me Not",
-    "arrangement" : "Pass me not O gentle savior",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Pass me not O",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Tis So Sweet To Trust In Jesus",
-    "arrangement" : "It's so sweet to trust in Jesus",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "It's so sweet,\r\nTo trust",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - He Hideth My Soul",
-    "arrangement" : "A wonderful Savior is Jesus my Lord\r\nA wonderful Savior to me",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "A wonderful Savior,\r\nIs Jesus",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - It's Me, It's Me, It's Me Oh Lord",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "It's me, It's me,\r\nIt's",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Victory in Jesus",
-    "arrangement" : "I heard an old, old story,\r\nHow a Saviour came from glory",
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "I heard an old,",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - A Vessel Of Honor",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 1,
-    "begins_with" : "A vessel of honor",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Here Comes Jesus",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Here comes Jesus\r\nSee Him",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Come into His Presence with Thanksgiving",
-    "arrangement" : "piano intro...",
-    "start_key" : "Bb\/C",
-    "tempo" : 4,
-    "begins_with" : "Come into His presence",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "I Surrender All (All to Jesus, I Surrender)",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 1,
-    "begins_with" : "All to Jesus\r\n(Todo a",
-    "tag" : "Main",
-    "note" : "All to Jesus, I Surrender"
-  },
-  {
-    "title" : "Q - The Lord Thy God In The Midst",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 3,
-    "begins_with" : "The Lord thy God\r\nIn",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "What A Friend We Have In Jesus",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "What a friend we",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - As For God",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "As for God\r\nHis way",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Here I Am To Worship",
-    "arrangement" : "(Intro)  Light of the world you stepped down",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Light of the world\r\n(la",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "I Will Delight (In The Law Of The Lord)",
-    "arrangement" : "I will delight in the law of the Lord",
-    "start_key" : "G\/Ab",
-    "tempo" : 3,
-    "begins_with" : "I will delight in",
-    "tag" : "Main",
-    "note" : "In The Law Of The Lord"
-  },
-  {
-    "title" : "Q - Let's Lift Up Jesus",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Let's lift up Jesus,\r\nlet's",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - This World Is Not My Home",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "This world is not",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Let The Words Of My Mouth",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Let the words\r\nof my",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "I Heard The Sound Of Voices",
-    "arrangement" : "Intro...",
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "I heard the sound",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q-Joy To The World",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Joy to the world!\r\nthe",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q-Hark The Herald Angels Sing",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Hark! the herald angels",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Adonai",
-    "arrangement" : "(Orch. intro) Lord of eternity the beginning and the end",
-    "start_key" : "Am\/C",
-    "tempo" : 4,
-    "begins_with" : "Lord of eternity\r\n(Señor de",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Awake",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 4,
-    "begins_with" : "Awake, awake \r\nPut on",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Praise Ye the Lord for His Mercy",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Praise ye the Lord,\r\nfor",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Let's talk about Jesus",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Let's talk about Jesus,\r\nthe",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Thine O Lord (Now Unto the King)",
-    "arrangement" : "Now unto the King eternal\r\n",
-    "start_key" : "C",
-    "tempo" : 4,
-    "begins_with" : "Thine O Lord, \r\nis",
-    "tag" : "Main",
-    "note" : "Now Unto the King"
-  },
-  {
-    "title" : "Q - My Offering",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Magnificent, Holy Father\r\nI stand",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "My Help (BTC)",
-    "arrangement" : "I will lift up mine eyes to the hills...",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "I will lift up",
-    "tag" : "Main",
-    "note" : "BTC"
-  },
-  {
-    "title" : "X - You Were There",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 2,
-    "begins_with" : "I wonder how it",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Jehovah's Oracle",
-    "arrangement" : null,
-    "start_key" : "Am",
-    "tempo" : 3,
-    "begins_with" : "The Oracle of Jehovah\r\nIs",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - A Beacon To Guide Us",
-    "arrangement" : "Whether richer or poorer",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Whether richer or poorer\r\nIts",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "I Will Celebrate (Baloche)",
-    "arrangement" : "(piano intro)",
-    "start_key" : "Eb\/F",
-    "tempo" : 3,
-    "begins_with" : "I will celebrate\r\n(Voy a",
-    "tag" : "Main",
-    "note" : "Baloche"
-  },
-  {
-    "title" : "Take Us To The River",
-    "arrangement" : "(Short Intro)",
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "Take us to the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "There Is No Other Name",
-    "arrangement" : "(pno\/guitar start)",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "There is no other",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Awake, Awake",
-    "arrangement" : null,
-    "start_key" : "Am",
-    "tempo" : 3,
-    "begins_with" : "Awake, awake O Zion",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Softly and Tenderly",
-    "arrangement" : "Softly and tenderly Jesus is calling",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Softly and tenderly\r\nJesus is",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - I Am Persuaded",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "O God of Righteousness\r\nO",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - At the Dawning of the Day",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 2,
-    "begins_with" : "At the dawning of",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "x What the Lord Has Done In Me",
-    "arrangement" : "Let the weak say I am strong\r\n(piano intro...)",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Let the weak say\r\nI",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Therefore Being Justified by Faith",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Therefore, being,\r\njustified by faith,\r\nWe",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Power Of The Cross",
-    "arrangement" : "Intro(guitar or piano) \r\nNot with elequent words. . .",
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Not with eloquent words,\r\n(No",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q-America The Beautiful",
-    "arrangement" : "O Beautiful, for spacious skies,",
-    "start_key" : "Bb",
-    "tempo" : 4,
-    "begins_with" : "O beautiful,\r\nFor spacious skies,\r\nFor",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Be Strong and Courgeous",
-    "arrangement" : null,
-    "start_key" : "Cm",
-    "tempo" : 4,
-    "begins_with" : "Be strong and courageous\r\nFor",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - God has Redeemed Jerusalem",
-    "arrangement" : null,
-    "start_key" : "Am",
-    "tempo" : 4,
-    "begins_with" : "Put on your strength",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "There'll Be A Gathering",
-    "arrangement" : "There'll be a gathering. . .",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "There'll be a gathering,\r\nwith",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "How Great Is Our God(Tomlin)",
-    "arrangement" : "Piano\/guitar intro.. The splendor of the King",
-    "start_key" : "Bb",
-    "tempo" : 1,
-    "begins_with" : "The splendor of the",
-    "tag" : "Main",
-    "note" : "Tomlin"
-  },
-  {
-    "title" : "x All Things Are Possible",
-    "arrangement" : "(Intro)Almighty God my redeemer",
-    "start_key" : "C\/D\/C\/D\/C",
-    "tempo" : 4,
-    "begins_with" : "Almighty God my redeemer\r\nmy",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - You Laid Down Your Love For Me",
-    "arrangement" : "The cross that you carried was heavy",
-    "start_key" : "G\/Ab\/Bb",
-    "tempo" : 2,
-    "begins_with" : "The cross that you",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Miracle In My Heart",
-    "arrangement" : "Intro  We are called to be a witness",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "We are called to",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "We Want to See Jesus Lifted High",
-    "arrangement" : "Piano intro  ",
-    "start_key" : "F\/G",
-    "tempo" : 4,
-    "begins_with" : "We want to see",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - All of His Saints Will Sing Holy",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Jerusalem's Eastern Gate's \r\nGuarded",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Hosanna",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "You belive in God\r\nBelieve",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Turn Your Eyes Upon Jesus",
-    "arrangement" : "Turn your eyes",
-    "start_key" : null,
-    "tempo" : 2,
-    "begins_with" : "O soul, are you",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Lord Guide Me",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Lord guide me\r\nThrough this",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Praise Song",
-    "arrangement" : null,
-    "start_key" : "Fm",
-    "tempo" : 3,
-    "begins_with" : "Come kneel before \r\nThe",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Cry Of My Heart",
-    "arrangement" : "(Intro) It is the cry of my heart. . .",
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "It is the cry",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Glory To The Lamb(Creation Song)",
-    "arrangement" : "He wraps Himself in light, as with a garment",
-    "start_key" : "F\/G",
-    "tempo" : 3,
-    "begins_with" : "He wraps Himself in",
-    "tag" : "Main",
-    "note" : "Creation Song"
-  },
-  {
-    "title" : "Q - In The Sweet By And By",
-    "arrangement" : "There's a land that is fairer than day",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "There's a land \r\nthat",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "How Marvelous     (I Stand Amazed)",
-    "arrangement" : "Piano intro...\r\nI stand amazed in the presence",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "I stand amazed In",
-    "tag" : "Main",
-    "note" : "I Stand Amazed"
-  },
-  {
-    "title" : "I've Been Crucified With Christ",
-    "arrangement" : "(Intro) I've been crucified with Christ",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "I've been crucified\r\n(Estoy juntamente",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "God Arise           (Robin Mark)",
-    "arrangement" : "(Intro) King of Heaven, King of Glory",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "King of Heaven,\r\nKing of",
-    "tag" : "Main",
-    "note" : "Robin Mark"
-  },
-  {
-    "title" : "How Can I Keep From Singing",
-    "arrangement" : "Intro  There is an endless song\r\n       I will sing lift my eyes",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "There is an endless",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Facedown",
-    "arrangement" : "(Orchestra Intro) Welcomed into the courts of the King",
-    "start_key" : "Dm",
-    "tempo" : 2,
-    "begins_with" : "Welcomed in to the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - He Shall Reign",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "Open wide you heavenly",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "x Mighty To Save",
-    "arrangement" : "Piano intro...\r\nEveryone needs compassion",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "Everyone needs compassion,\r\na love",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Who Shall Ascend",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 2,
-    "begins_with" : "Who shall ascend\r\nTo the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "I Will Boast",
-    "arrangement" : "(Intro)   Let not the wise man boast",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Let not the wise",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Heaven's Gate",
-    "arrangement" : "Pno intro...  \r\nYou exchanged the joy",
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "You exchanged the joy",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "There's a Cry",
-    "arrangement" : "Intro...\r\nThere's a cry that is rising,",
-    "start_key" : "Am",
-    "tempo" : 3,
-    "begins_with" : "There's a cry that",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Standing On The Promises Of God",
-    "arrangement" : null,
-    "start_key" : "G\/A",
-    "tempo" : 3,
-    "begins_with" : "Standing on the promises",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Jesus Loves Even Me",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "I am so glad",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - When I Survey The Wonderous Cross",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "When I survey the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - How Deep The Father's Love For Us",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "How deep the Father's",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "At Calvary",
-    "arrangement" : "Years I spent in vanity and pride",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Years I spent in",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Come Christians Join to Sing",
-    "arrangement" : "Intro...",
-    "start_key" : "F\/F#\/G",
-    "tempo" : 3,
-    "begins_with" : "Come, Christians, join to",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Great Is Thy Faithfulness",
-    "arrangement" : "Great is thy faithfulness",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Great is Thy faithfulness,",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Take My Life and Let it Be",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Take my life and",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Blessed Assurance",
-    "arrangement" : "Blessed Assurance, Jesus is Mine",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Blessed assurance, Jesus is",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Hosanna (Robin Mark)",
-    "arrangement" : "(Intro) Praise is rising eyes are turning...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Praise is rising,\r\nEyes are",
-    "tag" : "Main",
-    "note" : "Robin Mark"
-  },
-  {
-    "title" : "Celebrate Jesus",
-    "arrangement" : "(Intro)",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Celebrate Jesus.\r\n(Celebrad Jesús)\r\nCelebrate!\r\n(Celebrad!)\r\n\r\nCelebrate Jesus.\r\n(Celebrad",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "I Will Enter His Gates",
-    "arrangement" : null,
-    "start_key" : "C\/D",
-    "tempo" : 3,
-    "begins_with" : "I will enter his",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Will Thank The Lord",
-    "arrangement" : "I will thank the Lord...",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "I will thank the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "The Wonder Of The Cross",
-    "arrangement" : "(Piano intro)  The wonder of your cross ",
-    "start_key" : "A",
-    "tempo" : 2,
-    "begins_with" : "The wonder of your",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - O Love That Wilt Not Let Me Go",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "O Love that wilt",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Trust And Obey",
-    "arrangement" : "When we walk with the Lord in the light of His word. . . ",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "When we walk with",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - When We All Get To Heaven",
-    "arrangement" : "Sing the wondrous love of Jesus. . . ",
-    "start_key" : "Ab",
-    "tempo" : 3,
-    "begins_with" : "Sing the wondrous love",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Come Thou Fount of Every Blessing",
-    "arrangement" : " (Intro)Come Thou Fount of every blessing, tune my heart to sing",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Come, Thou Fount of",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Trusting Jesus",
-    "arrangement" : "Simply trusting every day,",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Simply trusting every day,\r\nTrusting",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Is Your All on the Altar?",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "You have longed for",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Be Thou My Vision",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 2,
-    "begins_with" : "Be Thou my vision\r\nO",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Old Rugged Cross",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 2,
-    "begins_with" : "On a hill far",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - The Old Rugged Cross",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 2,
-    "begins_with" : "On a hill far",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "I Will Rise",
-    "arrangement" : "Piano intro... There's a peace I've come to know",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "There's a peace I've",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "To God Be The Glory (Great Things He Hath Done)",
-    "arrangement" : "(Piano Intro) To God be the glory great things He has done.",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "To God be the",
-    "tag" : "Main",
-    "note" : "Great Things He Hath Done"
-  },
-  {
-    "title" : "In Christ Alone",
-    "arrangement" : "Pno solo 1st x thru...\r\nIn Christ alone my hope is found...",
-    "start_key" : "Db\/D",
-    "tempo" : 3,
-    "begins_with" : "In Christ alone my",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - It Will All Be Worth It",
-    "arrangement" : "When the Lord comes back",
-    "start_key" : null,
-    "tempo" : 4,
-    "begins_with" : "When the Lord comes",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - I Challenge You",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 2,
-    "begins_with" : "All you that have",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Come Kneel",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Come kneel before the",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Fire Fall Down",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Cause I know that",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Rise Up",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "The Lord of the",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Your Voice",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Oh Lord my heart",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Use Me Lord",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "From the depths of",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Tis Only Gain",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 4,
-    "begins_with" : "I would be lost,\r\nIf",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - I will Lift My Head",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "From Egypt's heavy bondage,\r\nHe",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - When One Man",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 2,
-    "begins_with" : "When one man seeks",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "With All Of My Heart",
-    "arrangement" : "(intro)  With all of my heart, with all of my heart",
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "With all of my",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Holy Is Our God",
-    "arrangement" : "(Intro) Lift up His name within the sanctuary. . .",
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "Lift up His name\r\n(Levanta",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Need Thee Every Hour",
-    "arrangement" : "I need Thee ev'ry hour. . . ",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "I need Thee ev'ry",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Rock of Ages (Chris Rice)",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 2,
-    "begins_with" : "Rock of Ages cleft",
-    "tag" : "Special",
-    "note" : "Chris Rice"
-  },
-  {
-    "title" : "x Stronger",
-    "arrangement" : "Piano intro...",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "There is Love that",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Faithful Is Our God",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Faithful, faithful, faithful is",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "x Lord, Have Your Way In Me",
-    "arrangement" : "This is my desire to honor You\r\npiano intro...",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "This is my desire,\r\nTo",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q-O Come All Ye Faithful",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 3,
-    "begins_with" : "O Come All Ye",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Trust His Heart",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "All things work for",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "x Hosanna (Fraser)",
-    "arrangement" : "I see the King of glory...\r\n(pno intro)",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "I see the King",
-    "tag" : "Youth",
-    "note" : "Fraser"
-  },
-  {
-    "title" : "Q - Jehoshaphat",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Now Jehoshaphat was king,\r\nIn",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Everlasting God",
-    "arrangement" : "Strength will rise as we wait\r\n(pno intro...)",
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "Strength will rise \r\n(La",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Beautiful, Terrible Cross",
-    "arrangement" : "There is a beautiful, terrible cross,",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "There is a beautiful,",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Longer I Serve Him",
-    "arrangement" : "Since I started for the Kingdom,",
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Since I started for",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "There Is None Like You",
-    "arrangement" : "(Piano Intro)We will fill up this place with Your praise",
-    "start_key" : "C",
-    "tempo" : 4,
-    "begins_with" : "We will fill up",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Awesome God",
-    "arrangement" : null,
-    "start_key" : "G\/Em",
-    "tempo" : 3,
-    "begins_with" : "Our God is an",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Oh How I Love The Name",
-    "arrangement" : "(Intro) Those who know Your name put their trust",
-    "start_key" : "Ab\/Bb",
-    "tempo" : 4,
-    "begins_with" : "Those who know Your",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - We Are Marching To Zion",
-    "arrangement" : "Come we that love the Lord, and let our joys be known",
-    "start_key" : "Eb",
-    "tempo" : 4,
-    "begins_with" : "Come, we that love",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Jesus Is Alive",
-    "arrangement" : "(Intro) Hallelujah Jesus is alive, death has lost it's victory",
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "Hallelujah Jesus is alive\r\n(¡Aleluya!",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Rend The Heavens",
-    "arrangement" : "(intro) This day, we call upon the living Lord",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "This day, we call",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "x Worthy is the Lamb(Hillsong)",
-    "arrangement" : "Thank You for the cross, Lord; thank you for the price. . .",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Thank You for the",
-    "tag" : "Youth",
-    "note" : "Hillsong"
-  },
-  {
-    "title" : "Q - Fairest Lord Jesus",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Fairest Lord Jesus, \r\nRuler",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - To Be Like Jesus",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "To be like Jesus,\r\nTo",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I'd Need A Savior",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "How many names, \r\nCan",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Let The Worshipers Arise",
-    "arrangement" : "Father I see that You are drawing the line. . .",
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "Father I see that",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - The Old Account Was Settled",
-    "arrangement" : "There was a time on earth. . .",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "There was a time",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Glorious Day (Living He Loved Me)",
-    "arrangement" : "One day when heaven was filled with. . .",
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "One day when heaven,\r\n(Un",
-    "tag" : "Main",
-    "note" : "Living He Loved Me"
-  },
-  {
-    "title" : "X - Hail Jesus",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Hail Jesus! You're my",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Our God (Tomlin)",
-    "arrangement" : "(Guitar Intro) Water You turned into wine...",
-    "start_key" : "Em",
-    "tempo" : 4,
-    "begins_with" : "Water You turned into",
-    "tag" : "Main",
-    "note" : "Tomlin"
-  },
-  {
-    "title" : "x The River Is Here",
-    "arrangement" : "(Intro) Down the mountain the river flows. . .",
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Down the mountain the",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Near  The Cross",
-    "arrangement" : "Jesus keep me near the cross. . . ",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Jesus, keep me near",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - O Sacred Head, Now Wounded",
-    "arrangement" : "O sacred Head, now wounded. . .",
-    "start_key" : "Am",
-    "tempo" : 2,
-    "begins_with" : "O sacred Head, now",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Will The Circle Be Unbroken?",
-    "arrangement" : "There are loved ones in the glory. . .",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "There are loved ones",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Count Your Blessings",
-    "arrangement" : "When upon life's billows you are tempest-tossed. . .",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "When upon life's billows\r\nyou",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Holy Is The Lord",
-    "arrangement" : "We stand and lift up our hands. . .",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "We stand and lift",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Sing To Jesus",
-    "arrangement" : "Come and see look on His majesty. . .",
-    "start_key" : "E",
-    "tempo" : 3,
-    "begins_with" : "Come and see look",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "You Are God Alone",
-    "arrangement" : "(Intro) You are not a god created. . .",
-    "start_key" : "Bb",
-    "tempo" : 2,
-    "begins_with" : "You are not a",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Grace Greater Than Our Sin",
-    "arrangement" : "Marvelous grace of our loving Lord. . .",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Marvelous grace of our",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - We Worship and Adore You",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "We worship and adore",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "x The Power of Your Love",
-    "arrangement" : "Lord, I come to You...(Orch intro)",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Lord, I come to",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Like A River Glorious",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Like a river glorious",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Are You Washed in the Blood?",
-    "arrangement" : "Have you been to Jesus for the cleansing power?",
-    "start_key" : "Ab",
-    "tempo" : 3,
-    "begins_with" : "Have you been to",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Psalm 134",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "Behold, bless ye the",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Nevertheless (Ezekiel 22)",
-    "arrangement" : null,
-    "start_key" : "E",
-    "tempo" : 3,
-    "begins_with" : "The princes and the",
-    "tag" : "Youth",
-    "note" : "Ezekiel 22"
-  },
-  {
-    "title" : "X - For This Cause",
-    "arrangement" : null,
-    "start_key" : "E",
-    "tempo" : 3,
-    "begins_with" : "For this cause, You",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Amazing Grace (My Chains are Gone)",
-    "arrangement" : "4\/4 pno intro...",
-    "start_key" : "D\/Eb",
-    "tempo" : 3,
-    "begins_with" : "Amazing grace! How sweet",
-    "tag" : "Main",
-    "note" : "My Chains are Gone"
-  },
-  {
-    "title" : "X - The Devil has Been Stomped On",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "The devil has been",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - How Beautiful",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "How beautiful the hands",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - When The Roll Is Called Up Yonder",
-    "arrangement" : "When the trumpet of the Lord shall sound. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "When the trumpet of",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - There Is A Fountain Filled With Blood",
-    "arrangement" : "There is a fountain filled with blood. . .",
-    "start_key" : "Ab",
-    "tempo" : 2,
-    "begins_with" : "There is a fountain",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Am Bound For The Promised Land",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "On Jordan's stormy banks",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "O For A Thousand Tongues To Sing",
-    "arrangement" : "O for a thousand tongues to sing. . .",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "O for a thousand",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Shout To The North",
-    "arrangement" : "(Orchestra Intro) \r\n(Men Start) Men of faith rise up and sing. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Men of faith rise",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Worthy",
-    "arrangement" : "(Intro) Worthy, Worthy, Worthy. . .",
-    "start_key" : "Am",
-    "tempo" : 3,
-    "begins_with" : "Worthy, Worthy,Worthy,\r\nto receive our",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Love Lifted Me",
-    "arrangement" : "I was sinking deep in sin...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "I was sinking deep",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Because Of Your Love",
-    "arrangement" : "(Intro) As we come into Your presence. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "As we come into",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Have Thine Own Way, Lord",
-    "arrangement" : "Have Thine own way, Lord...",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Have Thine own way,",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - To The King Alone",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "To the King who",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Joy Unspeakable",
-    "arrangement" : "I have found His grace is all complete. . .",
-    "start_key" : "G\/Ab",
-    "tempo" : 4,
-    "begins_with" : "I have found His",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Chosen Generation",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "For you are a",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Since Jesus Came Into My Heart",
-    "arrangement" : "What a wonderful change in my life. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "What a wonderful change",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - How Long Has It Been?",
-    "arrangement" : "How long has it been...",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "How long has it",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Be Lifted High",
-    "arrangement" : "Sin and its ways grow old, ",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Sin and its ways",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "All Is Well",
-    "arrangement" : "He lowers us to raise us...",
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "He lowers us to",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "You Are Holy",
-    "arrangement" : "(Intro) You are holy, You are mighty. . . (Now with added echo)",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "You are holy\r\n(Eres santo)\r\nYou",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - More About Jesus",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "More about Jesus I",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Alpha and Omega",
-    "arrangement" : "(Piano\/Orchestra Intro)  I heard a great voice. . .",
-    "start_key" : "Ab\/Bb",
-    "tempo" : 3,
-    "begins_with" : "I heard a great",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - The Hem of His Garment",
-    "arrangement" : "A woman one day,",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "A woman one day,\r\nTried",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "x The Potter's Hand",
-    "arrangement" : "(Intro) Beautiful Lord, wonderful Savior. . .",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Beautiful Lord, wonderful Savior\r\nI",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Redeemed",
-    "arrangement" : "Redeemed, how i love to proclaim it. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Redeemed, how I love",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Into My Heart",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Into my heart\r\n\r\nInto my",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Christ Is Risen",
-    "arrangement" : "(Intro) Let no one caught in sin. . .",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Let no one caught",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Purify My Heart",
-    "arrangement" : "Purify my heart...",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Purify my heart,\r\nLet me",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - One Day in Heaven",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Singing praises, You are",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Safe",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "To the one whose",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - The Stand",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "You stood before creation\r\nEternity",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q-Christmas Medley",
-    "arrangement" : "Hark, the herald angels sing...",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Hark, the herald angels",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "x God Is Able",
-    "arrangement" : "God is able and He will never fail. . .",
-    "start_key" : "G\/A",
-    "tempo" : 3,
-    "begins_with" : "God is able and",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Battle Hymn Of The Republic",
-    "arrangement" : "Mine eyes have seen the glory. . .",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Mine eyes have seen",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - No Not One!",
-    "arrangement" : "There's not a friend\r\nLike the lowly Jesus,",
-    "start_key" : "Eb",
-    "tempo" : 4,
-    "begins_with" : "There's not a friend\r\nLike",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Jesus",
-    "arrangement" : "Jesus, Jesus,Jesus,Jesus,Jesus. . . ",
-    "start_key" : "Bb",
-    "tempo" : 2,
-    "begins_with" : "Jesus, Jesus, Jesus, Jesus,",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "x For All You've Done",
-    "arrangement" : "(Intro) My Savior, Redeemer, lifted me from. . .",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "My Savior, Redeemer\r\nLifted me",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Oh Jesus",
-    "arrangement" : "Behold a virgin shall concieve",
-    "start_key" : "E",
-    "tempo" : 3,
-    "begins_with" : "Behold a virgin shall",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - That One Good Thing",
-    "arrangement" : "There's so much noise for me to hear",
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "There's so much noise",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - The Son Will Shine",
-    "arrangement" : "It's a different shade of gray today,",
-    "start_key" : "Dm",
-    "tempo" : 3,
-    "begins_with" : "It's a different shade",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - To See You",
-    "arrangement" : "It?s not for me to know,",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "It's not for me",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Won't You See",
-    "arrangement" : "Thou shall love the Lord,",
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "Thou shall love the",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Glory to His Name",
-    "arrangement" : "Down at the cross where my Savior died...",
-    "start_key" : "F\/G",
-    "tempo" : 3,
-    "begins_with" : "Down at the cross\r\n(Al",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "You Are My King (Amazing Love)",
-    "arrangement" : "I'm forgiven because You were forsaken. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "I'm forgiven because You",
-    "tag" : "Main",
-    "note" : "Amazing Love"
-  },
-  {
-    "title" : "Let Your Word Go Forth",
-    "arrangement" : "Let Your word go forth. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "Let Your word go",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "O Lord How Manifold (Psalm 104)",
-    "arrangement" : "O Lord how manifold are Thy works...",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "O Lord \r\nHow manifold",
-    "tag" : "Main",
-    "note" : "Psalm 104"
-  },
-  {
-    "title" : "A New Name In Glory",
-    "arrangement" : "I was once a sinner, but I came. . .",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "I was once a",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Glorious",
-    "arrangement" : "Look inside the mystery...\r\n4 measure Orchestra intro",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Look inside the mystery",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - The Way",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 2,
-    "begins_with" : "All creation cried out",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Thou Art My Hiding Place",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Thou art my hiding",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Ten Thousand Reasons (Bless The Lord)",
-    "arrangement" : "Bless the Lord, O my soul, O my soul...",
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Bless the Lord, O",
-    "tag" : "Main",
-    "note" : "Bless The Lord"
-  },
-  {
-    "title" : "One Day",
-    "arrangement" : "(Intro) To You o Lord will all the earth. . .",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "To You O Lord",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "When the Stars Burn Down",
-    "arrangement" : "4 meas Orch Intro:\r\nWhen the stars burn down. . .",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "When the stars burn",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Your Name",
-    "arrangement" : "As morning dawns and evening fades...",
-    "start_key" : "A",
-    "tempo" : 2,
-    "begins_with" : "As morning dawns and",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Hallelujah To My King",
-    "arrangement" : "O, how strong the power of Jesus' name...",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "O, how strong the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Redeemed (Big Daddy  Weave)",
-    "arrangement" : "Seems like all I could see...",
-    "start_key" : "A",
-    "tempo" : 2,
-    "begins_with" : "Seems like all I",
-    "tag" : "Special",
-    "note" : "Big Daddy  Weave"
-  },
-  {
-    "title" : "We Cry Out",
-    "arrangement" : "(Piano Intro)Father of life, seated on your throne...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Father of life, seated",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Wonderful, Merciful Savior",
-    "arrangement" : "Wonderful, merciful Savior...\r\n8 Measure Orchestra Intro...",
-    "start_key" : "Bb",
-    "tempo" : 2,
-    "begins_with" : "Wonderful, merciful Savior,\r\n(Maravilloso,misericordioso Salvador)\r\nPrecious",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "x It Is You      (We Adore)",
-    "arrangement" : "As we lift up our hands. . .",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "As we lift up",
-    "tag" : "Youth",
-    "note" : "We Adore"
-  },
-  {
-    "title" : "When I Think About the Lord",
-    "arrangement" : "When I think about the Lord...",
-    "start_key" : "Eb\/F",
-    "tempo" : 2,
-    "begins_with" : "When I think about",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "What a Savior",
-    "arrangement" : "Atoning sacrifice, keeper of this life...",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Atoning sacrifice\r\nKeeper of this",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - God Will Take Care of You",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 2,
-    "begins_with" : "Be not dismayed whate'er",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - The Lord's Prayer (Selah)",
-    "arrangement" : "Our Father, in heaven...",
-    "start_key" : "A",
-    "tempo" : 2,
-    "begins_with" : "Our Father,\r\nIn Heaven,\r\nHallowed be",
-    "tag" : "Special",
-    "note" : "Selah"
-  },
-  {
-    "title" : "Q - I Say Yes, Lord, Yes (with verses)",
-    "arrangement" : "I say yes, Lord, yes...",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "I say yes, Lord,",
-    "tag" : "Special",
-    "note" : "with verses"
-  },
-  {
-    "title" : "Your Great Name",
-    "arrangement" : "Lost are saved, find their way...",
-    "start_key" : "Gm",
-    "tempo" : 3,
-    "begins_with" : "Lost are saved, find",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - So Glad I'm Sanctified",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "So glad I'm sanctified\r\nso",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Eastern Gate",
-    "arrangement" : "Look for me at the Eastern gate...",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Look for me at",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Now Unto Him",
-    "arrangement" : "Jude 24 & 25",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Now unto him that",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Revelation Song\/Revalcion",
-    "arrangement" : "Worthy is the -- \r\nLamb who was slain",
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "Worthy is the Lamb",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Because He Lives",
-    "arrangement" : "God sent His son....",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "God sent His son,\r\nThey",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Precious Lord ",
-    "arrangement" : "Precious Lord, take my hand",
-    "start_key" : "Ab",
-    "tempo" : 2,
-    "begins_with" : "Precious Lord, take my",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "God of Wonders",
-    "arrangement" : "Lord of all creation...\r\nPno intro",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Lord of all creation\r\nOf",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Rise Up",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "The Lord of the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Show Me Your Way",
-    "arrangement" : "Show me your way...",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Show me Your way\r\nThat",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "A New Song (Psalm 149)",
-    "arrangement" : "Orch Intro:  Praise ye the Lord, sing unto the Lord...",
-    "start_key" : "Bb",
-    "tempo" : 4,
-    "begins_with" : "Praise ye the Lord.\r\nSing",
-    "tag" : "Main",
-    "note" : "Psalm 149"
-  },
-  {
-    "title" : "Q - It Is Well (Alternate Version)",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "It is well, with",
-    "tag" : "Special",
-    "note" : "Alternate Version"
-  },
-  {
-    "title" : "Q - I Will Exalt - Amanda Falk",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "Your presence is all",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "How Great Thou Art",
-    "arrangement" : "O Lord my God...\r\n4 meas intro w\/pickup",
-    "start_key" : "A",
-    "tempo" : 4,
-    "begins_with" : "O Lord my God\r\n(Oh",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Yes, Lord Yes (With Verses)",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "I say yes, Lord,",
-    "tag" : "Special",
-    "note" : "With Verses"
-  },
-  {
-    "title" : "Q - My Peace",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 2,
-    "begins_with" : "My peace I give\r\nUnto",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "I See The Lord",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "I see the Lord",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Lord, I Need You (Matt Maher)",
-    "arrangement" : "Lord I come, I confess...",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Lord I come, I",
-    "tag" : "Main",
-    "note" : "Matt Maher"
-  },
-  {
-    "title" : "X - Beautiful One",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Wonderful, so wonderful\r\nIs Your",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Open the Eyes of My Heart",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "Open the eyes of",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Blessed Redeemer",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Up Calvary's mountain one",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q-Silent Night",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Silent night, Holy night\r\nAll",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Zealous Over Zion",
-    "arrangement" : "I am zealous over Zion...",
-    "start_key" : "Em",
-    "tempo" : 4,
-    "begins_with" : "I am zealous over",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Remember Who God Is",
-    "arrangement" : null,
-    "start_key" : "E",
-    "tempo" : 3,
-    "begins_with" : "When the way is",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Make My Life A Prayer To You",
-    "arrangement" : null,
-    "start_key" : "A",
-    "tempo" : 2,
-    "begins_with" : "Make my life a",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Nothing but the Blood",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "What can wash away",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "He Will Come and Save You",
-    "arrangement" : "4 Measure Orch Intro",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "Say to those who",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Victory Chant",
-    "arrangement" : null,
-    "start_key" : "C\/D\/E",
-    "tempo" : 4,
-    "begins_with" : "Hail Jesus, You're my",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Good Good Father",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "I've heard a thousand",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Hallelujah (Robin Mark)",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "You ride on a",
-    "tag" : "Special",
-    "note" : "Robin Mark"
-  },
-  {
-    "title" : "Q - Great I Am",
-    "arrangement" : "I want to be close, close to Your side",
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "I want to be",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Life's Railway to Heaven",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "Life is like a",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Am Not Alone",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 2,
-    "begins_with" : "When I walk through",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "You, You Are God",
-    "arrangement" : "Here I am, I've come to find you.",
-    "start_key" : "Bb\/C",
-    "tempo" : 4,
-    "begins_with" : "Here I am, I've",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Jesus Loves Me (Tomlin)",
-    "arrangement" : "I was lost, I was in chains...",
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "I was lost, I",
-    "tag" : "Special",
-    "note" : "Tomlin"
-  },
-  {
-    "title" : "Q - Highly Exalted",
-    "arrangement" : null,
-    "start_key" : "E",
-    "tempo" : 3,
-    "begins_with" : "You were despised\r\nYou were",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Everything and Nothing Less",
-    "arrangement" : null,
-    "start_key" : "A",
-    "tempo" : 3,
-    "begins_with" : "Humbly I stand\r\nAn offering\r\nWith",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Indescribable",
-    "arrangement" : "Orch Pno intro:\r\nFrom the highest of heights to the depths of the sea...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "From the highest of",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "My Savior My God",
-    "arrangement" : "I am not skilled to understand...",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "I am not skilled",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q-O Holy Night",
-    "arrangement" : null,
-    "start_key" : "X",
-    "tempo" : 2,
-    "begins_with" : "O Holy Night\r\nThe stars",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q-O Come O Come Emmanuel",
-    "arrangement" : null,
-    "start_key" : "X",
-    "tempo" : 2,
-    "begins_with" : "O come, O come,",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q-The First Noel",
-    "arrangement" : null,
-    "start_key" : "X",
-    "tempo" : 3,
-    "begins_with" : "The first Noel the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Touch Me Lord",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Please hear my prayer",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Strong Name of Jesus",
-    "arrangement" : "There is only one Lord that we cling to...",
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "There is only one",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "I Stand in Awe of You (L Collins)",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "I stand in awe",
-    "tag" : "Main",
-    "note" : "L Collins"
-  },
-  {
-    "title" : "X - Baptized",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Lay Your hand on",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Awesome (Charles Jenkins)",
-    "arrangement" : null,
-    "start_key" : "E",
-    "tempo" : 2,
-    "begins_with" : "My God is awesome\r\n(Mi",
-    "tag" : "Youth",
-    "note" : "Charles Jenkins"
-  },
-  {
-    "title" : "Q - Oh God, Thou Art My God",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Oh God, Thou art",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Let Us Go Forth ",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "We are your church",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Hold Me Near (L Collins)",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "In this quiet place",
-    "tag" : "Special",
-    "note" : "L Collins"
-  },
-  {
-    "title" : "Q - Your Grace Still Amazes Me",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 2,
-    "begins_with" : "My faithful Father, enduring",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Jesus Messiah",
-    "arrangement" : "(4 meas intro)\r\nHe became sin, who knew no sin...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "He became sin, who",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Know ye not",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Know ye not, know",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Put on Garments of Praise\/Sing Praises\/Break Forth",
-    "arrangement" : null,
-    "start_key" : "Bb",
-    "tempo" : 4,
-    "begins_with" : "Put on the garments",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "At the Cross",
-    "arrangement" : "Alas! and did my Savior bleed...",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "Alas! And did my",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Be Still My Soul",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "Be still, my soul;",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "All the Earth",
-    "arrangement" : "3 measure Orchestra intro: Father, into Your courts I will enter...",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "Father, into Your courts",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Lion and the Lamb (Leeland)",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "He's coming on the",
-    "tag" : "Youth",
-    "note" : "Leeland"
-  },
-  {
-    "title" : "Your Grace is Enough",
-    "arrangement" : "Rhythm Intro...\r\nGreat is your faithfulness O God...",
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Great is your faithfulness,",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Will Sing Unto the Lord For He Has Triumphed",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 4,
-    "begins_with" : "I will sing unto",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Praise Him (in the Morning)",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Praise Him  Praise",
-    "tag" : "Main",
-    "note" : "in the Morning"
-  },
-  {
-    "title" : "The Lord Liveth\/ Lift up Your Voice\/ Sing Unto The Lord ",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "The Lord liveth!\r\nBlessed be",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - The Kingdom of God",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "The Kingdom of God",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - The Faithful One (Selah)",
-    "arrangement" : null,
-    "start_key" : "Bb\/F",
-    "tempo" : 2,
-    "begins_with" : "I find no hope",
-    "tag" : "Special",
-    "note" : "Selah"
-  },
-  {
-    "title" : "Q - Made A Way (Travis Greene)",
-    "arrangement" : "Standing here not knowing how we'll get through this test...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Standing here \r\nNot knowing",
-    "tag" : "Special",
-    "note" : "Travis Greene"
-  },
-  {
-    "title" : "Q - All the Way My Savior Leads Me",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "All the way my",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "A Place on the Earth",
-    "arrangement" : "4 measure intro...",
-    "start_key" : "Fm\/Ab",
-    "tempo" : 3,
-    "begins_with" : "Find me a place",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Without Him",
-    "arrangement" : "Without Him I could do nothing\r\n...",
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "Without Him I could",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - When It's All Been Said and Done",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "When it's all been",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Lion and the Lamb",
-    "arrangement" : "Orchestra Intro...He's coming on the clouds...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "He's coming on the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Soul's Desire (Robin Mark)",
-    "arrangement" : "You are my soul's desire, I was wandering...",
-    "start_key" : "A ",
-    "tempo" : 3,
-    "begins_with" : "You are my soul's",
-    "tag" : "Special",
-    "note" : "Robin Mark"
-  },
-  {
-    "title" : "Q - God Will Make a Way",
-    "arrangement" : null,
-    "start_key" : "Eb",
-    "tempo" : 2,
-    "begins_with" : "God will make a",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Great Hope",
-    "arrangement" : "6\/8 feel, 4 meas Orch intro...",
-    "start_key" : "Eb",
-    "tempo" : 3,
-    "begins_with" : "There is great hope",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "x You Are Good",
-    "arrangement" : "(Four measure intro): Lord You are good and your mercy endureth...",
-    "start_key" : "F",
-    "tempo" : 4,
-    "begins_with" : "Lord, You are good",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Let the Church Say Amen",
-    "arrangement" : "Orchestra intro...",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Let the Church say",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "I Give You Glory",
-    "arrangement" : null,
-    "start_key" : "Fm",
-    "tempo" : 4,
-    "begins_with" : "I give You Glory\r\n(Te",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "I Got Saved",
-    "arrangement" : "(4 intro) There is a river of gladness...",
-    "start_key" : "A",
-    "tempo" : 2,
-    "begins_with" : "There is a river",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Adorandote\/Worshiping Your Name",
-    "arrangement" : "(Piano intro): I just want to bless You...",
-    "start_key" : "E",
-    "tempo" : 3,
-    "begins_with" : "Quiero bendecirte\r\n(I just want",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Sing Unto God, Sing Praises",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 4,
-    "begins_with" : "Sing Unto God, Sing",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Wounds That Heal",
-    "arrangement" : "Hands were held against a cross...",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Hands were held against",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Impossible Things",
-    "arrangement" : "(4 measure intro): You heal the broken hearted...",
-    "start_key" : "C",
-    "tempo" : 4,
-    "begins_with" : "You heal the broken",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - All Hail the King",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "We make way for",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Whom Shall I Fear (God of Angel Armies)",
-    "arrangement" : "Guitar Intro",
-    "start_key" : "Bb",
-    "tempo" : 3,
-    "begins_with" : "You hear me when",
-    "tag" : "Main",
-    "note" : "God of Angel Armies"
-  },
-  {
-    "title" : "Be Bold, Be Strong",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "Be bold, be strong,",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Q - Is He Worthy",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 2,
-    "begins_with" : "Do you feel the",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - You Are Mine",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "When you pass through",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - I Am Not Alone (Kari Jobe)",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 2,
-    "begins_with" : "When I walk through",
-    "tag" : "Youth",
-    "note" : "Kari Jobe"
-  },
-  {
-    "title" : "Q - Unto Him Be Glory",
-    "arrangement" : null,
-    "start_key" : "Ab",
-    "tempo" : 4,
-    "begins_with" : "Unto Him be glory",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Living Hope",
-    "arrangement" : "How great the chasm...",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "How great the chasm",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Amazing Grace (My Chains Are Gone)",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "Amazing grace how sweet",
-    "tag" : "Youth",
-    "note" : "My Chains Are Gone"
-  },
-  {
-    "title" : "Q -  Psalm 104",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 2,
-    "begins_with" : "I will sing unto",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Be Still",
-    "arrangement" : "(3 measure intro) You have clothed the lilies of the valley...",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "You have clothed the",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Counting Every Blessing",
-    "arrangement" : "I was blind now I'm seeing in color...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "I was blind, now",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Lifesong (Casting Crowns)",
-    "arrangement" : "I once was lost, but now I'm found",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "I once was lost",
-    "tag" : "Youth",
-    "note" : "Casting Crowns"
-  },
-  {
-    "title" : "In Your Courts of Praise",
-    "arrangement" : "Orchestra Intro",
-    "start_key" : " Bb",
-    "tempo" : 4,
-    "begins_with" : "As I seek your",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Great Is Our Lord",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "He heels the broken",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Into Your Arms",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "Surrounded by a cloud",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - You Ordained Your Strength",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Your son was made",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - I Am By Your Side",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 4,
-    "begins_with" : "Like a bruised reed",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : " Only The Lamb",
-    "arrangement" : null,
-    "start_key" : "D ",
-    "tempo" : 2,
-    "begins_with" : "The gift of God",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - He's Calling You Today",
-    "arrangement" : null,
-    "start_key" : "F",
-    "tempo" : 3,
-    "begins_with" : "You see this life",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "x Mourning Into Dancing",
-    "arrangement" : "4 measure orchestra intro: You've turned my mourning into dancing...",
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "You've turned my mourning",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Only The Lamb",
-    "arrangement" : "The gift of God has come to this world...",
-    "start_key" : "D",
-    "tempo" : 2,
-    "begins_with" : "The gift of God",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - Build My Life",
-    "arrangement" : "4 measure intro: Worthy of every song we could ever sing....",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "Worthy of every song",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X - Worthy (Elevation)",
-    "arrangement" : "4 measure Piano intro: It was my cross You bore...",
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "It was my cross",
-    "tag" : "Youth",
-    "note" : "Elevation"
-  },
-  {
-    "title" : "Q- Confidence",
-    "arrangement" : null,
-    "start_key" : null,
-    "tempo" : 3,
-    "begins_with" : "I'm not a warrior\r\nI'm",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - People of the Cross",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Home, we're heading home\r\nWe",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q - O Lord, You're Beautiful",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 2,
-    "begins_with" : "Oh Lord, you're beautiful,\r\nYour",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - Way Maker (Leeland)",
-    "arrangement" : "(8 measure intro) - You are here, moving in our midst...",
-    "start_key" : "D",
-    "tempo" : 3,
-    "begins_with" : "You are here, moving",
-    "tag" : "Youth",
-    "note" : "Leeland"
-  },
-  {
-    "title" : "Taste and See (Psalm 34)",
-    "arrangement" : "(Piano Intro): I sought the Lord, and He answered me...",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "I sought the Lord\r\nAnd",
-    "tag" : "Main",
-    "note" : "Psalm 34"
-  },
-  {
-    "title" : "X - Bound For Glory ",
-    "arrangement" : "8 measure intro: This world is not my home....",
-    "start_key" : "C",
-    "tempo" : 4,
-    "begins_with" : "This world is not",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "X No Longer Slaves",
-    "arrangement" : "You unravel me, with a melody",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "You unravel me, with",
-    "tag" : "Youth",
-    "note" : ""
-  },
-  {
-    "title" : "Q - I Will Sing of My Redeemer",
-    "arrangement" : null,
-    "start_key" : "D",
-    "tempo" : 2,
-    "begins_with" : "I will sing of",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Your Name is Power",
-    "arrangement" : null,
-    "start_key" : "G",
-    "tempo" : 4,
-    "begins_with" : "You're the only answer",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "Break Every Chain",
-    "arrangement" : "(4 measure intro) There is power in the name of Jesus...",
-    "start_key" : "A",
-    "tempo" : 2,
-    "begins_with" : "There is power in",
-    "tag" : "Main",
-    "note" : ""
-  },
-  {
-    "title" : "X - God, You're So Good (Passion)",
-    "arrangement" : "Amazing love that welcomes me...",
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "Amazing love\r\nThat welcomes me\r\nThe",
-    "tag" : "Youth",
-    "note" : "Passion"
-  },
-  {
-    "title" : "Q - God Rest Ye Merry Gentlemen",
-    "arrangement" : null,
-    "start_key" : "C",
-    "tempo" : 3,
-    "begins_with" : "God rest ye merry",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "Q-Holy Lamb of God ",
-    "arrangement" : "(Piano Intro) A virgin cried when You were born...",
-    "start_key" : "Bm",
-    "tempo" : 2,
-    "begins_with" : "A virgin cried when",
-    "tag" : "Special",
-    "note" : ""
-  },
-  {
-    "title" : "X - At Your Name (Yahweh)",
-    "arrangement" : "(4 measure piano\/ guitar intro): At Your name, the mountains shake and crumble...",
-    "start_key" : "G",
-    "tempo" : 3,
-    "begins_with" : "At Your name\r\nThe mountains",
-    "tag" : "Youth",
-    "note" : "Yahweh"
-  },
-  {
-    "title" : "X - Overcome (Jeremy Camp)",
-    "arrangement" : "`(Seated above, enthroned in the Father's love...)",
-    "start_key" : "X",
-    "tempo" : 3,
-    "begins_with" : "Seated above, enthroned in",
-    "tag" : "Youth",
-    "note" : "Jeremy Camp"
-  },
-  {
-    "title" : "X - Home (Casting Crowns)",
-    "arrangement" : "4 measure piano\/keyboard intro: \"Since God will be my Shepherd...",
-    "start_key" : "G",
-    "tempo" : 2,
-    "begins_with" : "Since God will be",
-    "tag" : "Youth",
-    "note" : "Casting Crowns"
-  },
-  {
-    "title" : "I Will Praise Thee\/Unto Him ",
-    "arrangement" : "4 measure intro...",
-    "start_key" : "Ab",
-    "tempo" : 4,
-    "begins_with" : "I will praise Thee",
-    "tag" : "Main",
     "note" : ""
   }
 ]
