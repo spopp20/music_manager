@@ -2,9 +2,8 @@ import { useUser, fetcher } from '../lib/hooks';
 import useSWR from 'swr';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
 function UserList() {
-  const { data: { users } = {} } = useSWR('/api/users', fetcher)
+  const { data: { users } = {} } = useSWR('/api/users', fetcher);
   return (
     <>
       <h2>All users</h2>
@@ -16,16 +15,14 @@ function UserList() {
         </ul>
       )}
     </>
-  )
+  );
 }
 
 export default function HomePage() {
-  const [user] = useUser()
+  const [user] = useUser();
   return (
     <>
-      <h1>
-        Example User Pages
-      </h1>
+      <h1>Example User Pages</h1>
 
       <ol>
         <li>Now all API has to change to use MongoDB</li>
@@ -40,9 +37,7 @@ export default function HomePage() {
         <li>Click Sign up and enter a username and password.</li>
         <li>You will be logged in and redirected home.</li>
         <li>Click Logout. You will be redirected home.</li>
-        <li>
-          Try sign up again with the same username, you will see an error.
-        </li>
+        <li>Try sign up again with the same username, you will see an error.</li>
       </ol>
       <h3>Sign in</h3>
       <ol>
@@ -56,10 +51,7 @@ export default function HomePage() {
         <li>Enter a new name and click Update profile.</li>
         <li>Notice how the name in Your profile has changed.</li>
         <li>Click Delete profile</li>
-        <li>
-          The user is removed and is no longer shown in All users section in
-          Home
-        </li>
+        <li>The user is removed and is no longer shown in All users section in Home</li>
       </ol>
       {user && <p>Currently logged in as: {JSON.stringify(user)}</p>}
       <UserList />
@@ -69,5 +61,5 @@ export default function HomePage() {
         }
       `}</style>
     </>
-  )
+  );
 }

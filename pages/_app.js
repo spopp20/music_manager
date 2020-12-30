@@ -1,24 +1,27 @@
+import React, { useState } from 'react';
+import CustomHeader from '~/components/Head';
+import MainNavBar from '~/components/MainNavBar';
+import { useUser } from '~/lib/hooks';
 
-import React, { useState } from "react";
-import Head from '../components/Head';
-import MainNavBar from '../components/MainNavBar';
-import { useUser } from '../lib/hooks';
-
-import { Container, Col, Row } from 'reactstrap';
+import Container from 'react-bootstrap/Container';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'styles.css';
+import PropTypes from 'prop-types';
 
 export default function MyApp({ Component, pageProps }) {
-
   const [user, { mutate }] = useUser();
 
   return (
     <>
-    <Head />
-    <Container fluid>
-    <MainNavBar {...pageProps} />
-      <Component {...pageProps} />
-    </Container>
+      <CustomHeader />
+      <Container fluid>
+        <MainNavBar {...pageProps} />
+        <Component {...pageProps} />
+      </Container>
     </>
-  )
+  );
+}
+
+MyApp.propTypes = {
+  Component: PropTypes.object.isOptional,
+  pageProps: PropTypes.object.isOptional
 };

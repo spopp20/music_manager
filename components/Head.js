@@ -1,7 +1,7 @@
-import { Component } from "react"
-import Head from "next/head"
+import { Component } from 'react';
+import Head from 'next/head';
 
-export default class extends Component {
+export default class CustomHeader extends Component {
   render() {
     return (
       <Head>
@@ -14,6 +14,6 @@ export default class extends Component {
         <meta name="msapplication-TileColor" content="#2b5797"></meta>
         <meta name="theme-color" content="#ffffff" />
       </Head>
-    )
+    );
   }
 }

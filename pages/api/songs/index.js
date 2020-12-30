@@ -1,32 +1,30 @@
-import dbConnect from '../../../middleware/dbConnect'
-import Song from '../../../models/Song'
+import dbConnect from '~/middleware/dbConnect';
+import Song from '~/models/Song';
 
 export default async function handler(req, res) {
-  const { method } = req
+  const { method } = req;
 
-  await dbConnect()
+  await dbConnect();
 
   switch (method) {
     case 'GET':
       try {
-        const songs = await Song.find({}) /* find all the data in our database */
-        res.status(200).json({ success: true, data: songs })
+        const songs = await Song.find({}); /* find all the data in our database */
+        res.status(200).json({ success: true, data: songs });
       } catch (error) {
-        res.status(400).json({ success: false })
+        res.status(400).json({ success: false });
       }
-      break
+      break;
     case 'POST':
       try {
-        const song = await Song.create(
-          req.body
-        ) /* create a new model in the database */
-        res.status(201).json({ success: true, data: song })
+        const song = await Song.create(req.body); /* create a new model in the database */
+        res.status(201).json({ success: true, data: song });
       } catch (error) {
-        res.status(400).json({ success: false })
+        res.status(400).json({ success: false });
       }
-      break
+      break;
     default:
-      res.status(400).json({ success: false })
-      break
+      res.status(400).json({ success: false });
+      break;
   }
 }

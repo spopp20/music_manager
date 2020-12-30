@@ -1,16 +1,16 @@
 # music_manager
 
-Music Manager is a full stack html5 single page web application designed to manage songs for multiple instruments including voice and orchastra.  It will deliver song lyrics and orchestral instrument notations.
+Music Manager is a full stack html5 single page web application designed to manage songs for multiple instruments including voice and orchastra. It will deliver song lyrics and orchestral instrument notations.
 
 It was created using next.js, react, and uses an API to communicate with a Mongo Database for data persistence.
 
 ## Current Status
 
 Some of the API is in place
-* The instruments API is working using MongoDB
-* The login, logout, and users API is working going to code to fake a database.
-* The songs API is missing - will be worked on next
 
+- The instruments API is working using MongoDB
+- The login, logout, and users API is working going to code to fake a database.
+- The songs API is missing - will be worked on next
 
 # Getting Started
 
@@ -39,7 +39,6 @@ mongodb+srv://<username>:<password>@my-project-abc123.mongodb.net/test?retryWrit
 ```
 
 For more details, follow this [MongoDB Guide](https://docs.mongodb.com/guides/server/drivers/) on how to connect to MongoDB.
-
 
 Set up environment variables
 
@@ -92,6 +91,17 @@ Your app is ready to be deployed!
 npm run dev
 ```
 
+```bash
+npm run lint
+```
+
+Lint and code
+
+```bash
+npm run format
+```
+
+Format source files using Prettier formatting rules.
 
 # next-connect and Passport
 
@@ -105,20 +115,19 @@ In production, you must use a password hashing library, such as [argon2](https:/
 
 ## Deploy your own
 
-Deploy using [Vercel](https://vercel.com): 
+Deploy using [Vercel](https://vercel.com):
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/spopp20/music_manager)
-
 
 ## Environment Variables
 
 The following files should be in the .gitignore to keep secret information secret.
 
-| File | Purpose |
-|---|---|
-| .env | Provides defaults for all environments |
-| .env.local | Store secret evironment variables that overrides other files |
-| .env.development | Defaults for development `next dev` runs |
-| .env.production | Defaults for production `next start` runs |
+| File             | Purpose                                                      |
+| ---------------- | ------------------------------------------------------------ |
+| .env             | Provides defaults for all environments                       |
+| .env.local       | Store secret evironment variables that overrides other files |
+| .env.development | Defaults for development `next dev` runs                     |
+| .env.production  | Defaults for production `next start` runs                    |
 
 Do not commit a .env file or any file that starts with .env and ends with .local.
 
@@ -126,9 +135,9 @@ Copy .env.example variables into your .env.local file and then fix to us actual 
 
 ## Testing a new API
 
-MongoDB collections are similar to a database table, but can contain JSON data. 
+MongoDB collections are similar to a database table, but can contain JSON data.
 Collections are named in lower case and are plural such as "instruments"
- 
+
 Use the browser default GET function locally retrieve raw JSON results.
 
 [api/instruments](http://localhost:3000/api/instruments)

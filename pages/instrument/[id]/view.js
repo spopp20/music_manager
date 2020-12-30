@@ -1,10 +1,10 @@
-import { useRouter } from 'next/router'
+import { useRouter } from 'next/router';
 
 const ViewInstrumentIdPage = () => {
-  const router = useRouter()
-  const { id } = router.query
+  const router = useRouter();
+  const { id } = router.query;
 
-  return <p>View Instrument {id}</p>
-  }
+  return <p>View Instrument {id}</p>;
+};
 
-  export default ViewInstrumentIdPage;
+export default ViewInstrumentIdPage;

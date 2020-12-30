@@ -1,41 +1,42 @@
-import dbConnect from '../middleware/dbConnect'
-import Instrument from '../models/Instrument';
+import dbConnect from '~/middleware/dbConnect';
+import Instrument from '~/models/Instrument';
 import InstrumentCard from '~/components/InstrumentCard';
 
-import {
-  Container,
-  Col,
-  Row,
-} from "reactstrap";
+import Container from 'react-bootstrap/Container';
+import Col from 'react-bootstrap/Col';
+import Row from 'react-bootstrap/Row';
+import PropTypes from 'prop-types';
 
 export default function InstrumentsPage({ instruments }) {
   let instrumentCards = instruments.map((instrument) => {
     return (
       <Col sm="4" key={instrument._id}>
-        <InstrumentCard instrument={instrument}/>
+        <InstrumentCard instrument={instrument} />
       </Col>
-    )
-  })
+    );
+  });
   return (
     <Container fluid>
-      <Row>
-        {instrumentCards}
-      </Row>
+      <Row>{instrumentCards}</Row>
     </Container>
-  )
+  );
+}
+
+InstrumentsPage.propTypes = {
+  instruments: PropTypes.array.isRequired
 };
 
 /* Retrieves instruments collection data from mongodb database */
 export async function getServerSideProps() {
-  await dbConnect()
+  await dbConnect();
 
-  const result = await Instrument.find({})
+  const result = await Instrument.find({});
   const instruments = result.map((doc) => {
     // Mongoose result is doc and toObject() converts result to an Obnect
-    const instrument = doc.toObject()
-    instrument._id = instrument._id.toString()
-    return instrument
-  })
+    const instrument = doc.toObject();
+    instrument._id = instrument._id.toString();
+    return instrument;
+  });
 
-  return { props: { instruments: instruments } }
+  return { props: { instruments: instruments } };
 }
