@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
+import PropTypes from 'prop-types';
 
 // react-bootstrap components
 import Button from 'react-bootstrap/Button';
@@ -29,6 +30,16 @@ const SongCard = ({ song }) => {
       </Card.Body>
     </Card>
   );
+};
+
+SongCard.propTypes = {
+  song: PropTypes.shape({
+    _id: PropTypes.string.isRequired,
+    arrangement: PropTypes.string.isOptional,
+    begins_with: PropTypes.string.isOptional,
+    start_key: PropTypes.string.isOptional,
+    title: PropTypes.string.isRequired
+  })
 };
 
 export default SongCard;

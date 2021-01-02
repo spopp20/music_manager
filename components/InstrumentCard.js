@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
+import PropTypes from 'prop-types';
 
 // react-bootstrap components
 import Button from 'react-bootstrap/Button';
@@ -27,6 +28,14 @@ const InstrumentCard = ({ instrument }) => {
       </Card.Body>
     </Card>
   );
+};
+
+InstrumentCard.propTypes = {
+  instrument: PropTypes.shape({
+    _id: PropTypes.string.isRequired,
+    name: PropTypes.string.isRequired,
+    folder: PropTypes.string.isOptional
+  })
 };
 
 export default InstrumentCard;

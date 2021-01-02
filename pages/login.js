@@ -37,7 +37,7 @@ export default function LoginPage() {
   return (
     <>
       <h1>Login to Example</h1>
-      {errorMsg && <p className="error">{errorMsg}</p>}
+      <p className="error">{errorMsg}</p>
       <div className="form-container">
         <form onSubmit={onSubmit}>
           <label>
@@ -51,7 +51,7 @@ export default function LoginPage() {
           <div className="submit">
             <button type="submit">Login</button>
             <Link href="/signup">
-              <a>I don't have an account</a>
+              <button>I do not have an account</button>
             </Link>
           </div>
         </form>

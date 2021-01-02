@@ -48,9 +48,9 @@ function ProfileEdit() {
           </label>
           <div className="submit">
             <button type="submit">Update profile</button>
-            <a role="button" className="delete" onClick={handleDeleteProfile}>
+            <button className="delete" onClick={handleDeleteProfile}>
               Delete profile
-            </a>
+            </button>
           </div>
         </form>
       </div>
@@ -78,12 +78,8 @@ export default function ProfilePage() {
   return (
     <>
       <h1>Profile</h1>
-      {user && (
-        <>
-          <p>Your profile: {JSON.stringify(user)}</p>
-          <ProfileEdit />
-        </>
-      )}
+      <p>Your profile: {JSON.stringify(user)}</p>
+      <ProfileEdit />
     </>
   );
 }
