@@ -19,3 +19,8 @@ db.songs.drop();
 var file2 = cat('./songs.json'); // file name
 var js2 = JSON.parse(file2); // convert string to JSON
 db.songs.insert(js2); //collection name
+
+db.scores.drop();
+var file3 = cat('./scores.json'); // file name
+var js3 = JSON.parse(file3); // convert string to JSON
+db.scores.insert(js3); //collection name
