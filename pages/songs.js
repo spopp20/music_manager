@@ -1,25 +1,39 @@
+import BootstrapTable from 'react-bootstrap-table-next';
+import filterFactory, { textFilter } from 'react-bootstrap-table2-filter';
+
+const columns = [
+  {
+    dataField: 'song',
+    text: 'Song ID'
+  },
+  {
+    dataField: 'title',
+    text: 'Title',
+    filter: textFilter()
+  },
+  {
+    dataField: 'start_key',
+    text: 'Key',
+    filter: textFilter()
+  },
+  {
+    dataField: 'tempo',
+    text: 'Tempo',
+    filter: textFilter()
+  },
+  {
+    dataField: 'tag',
+    text: 'Tag',
+    filter: textFilter()
+  }
+];
+
 import dbConnect from '~/middleware/dbConnect';
 import Song from '~/models/Song';
-import SongCard from '~/components/SongCard';
-
-import Container from 'react-bootstrap/Container';
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 import PropTypes from 'prop-types';
 
 export default function SongPage({ songs }) {
-  let songCards = songs.map((song) => {
-    return (
-      <Col sm="4" key={song._id}>
-        <SongCard song={song} />
-      </Col>
-    );
-  });
-  return (
-    <Container fluid>
-      <Row>{songCards}</Row>
-    </Container>
-  );
+  return <BootstrapTable keyField="_id" data={songs} columns={columns} filter={filterFactory()} />;
 }
 
 SongPage.propTypes = {

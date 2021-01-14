@@ -10,7 +10,8 @@ Some of the API is in place
 
 - The instruments API is working using MongoDB
 - The login, logout, and users API is working going to code to fake a database.
-- The songs API is missing - will be worked on next
+- The songs API is working
+- The scores collection is loaded
 
 # Getting Started
 
@@ -142,4 +143,11 @@ Use the browser default GET function locally retrieve raw JSON results.
 
 [api/instruments](http://localhost:3000/api/instruments)
 
-[api/instruments](http://localhost:3000/api/songs)
+[api/songs](http://localhost:3000/api/songs)
+
+## Added react-bootstrap-table2
+
+```bash
+npm install react-bootstrap-table-next
+npm install react-bootstrap-table2-filter
+```
