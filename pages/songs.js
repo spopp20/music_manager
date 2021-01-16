@@ -1,5 +1,6 @@
 import BootstrapTable from 'react-bootstrap-table-next';
 import filterFactory, { textFilter } from 'react-bootstrap-table2-filter';
+import paginationFactory from 'react-bootstrap-table2-paginator';
 
 const columns = [
   {
@@ -33,7 +34,15 @@ import Song from '~/models/Song';
 import PropTypes from 'prop-types';
 
 export default function SongPage({ songs }) {
-  return <BootstrapTable keyField="_id" data={songs} columns={columns} filter={filterFactory()} />;
+  return (
+    <BootstrapTable
+      keyField="_id"
+      data={songs}
+      columns={columns}
+      filter={filterFactory()}
+      pagination={paginationFactory()}
+    />
+  );
 }
 
 SongPage.propTypes = {
