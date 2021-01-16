@@ -3,6 +3,7 @@ import CustomHeader from '~/components/Head';
 import MainNavBar from '~/components/MainNavBar';
 
 import Container from 'react-bootstrap/Container';
+import '~/styles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import PropTypes from 'prop-types';
 

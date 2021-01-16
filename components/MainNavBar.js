@@ -14,7 +14,7 @@ const MainNavBar = () => {
 
   return (
     <Navbar bg="dark" variant="dark" expand="lg" sticky="top">
-      <Navbar.Brand href="/" style={{ width: 50, marginTop: -8 }}>
+      <Navbar.Brand href="/" style={{ width: 30, marginTop: -8 }}>
         <FontAwesomeIcon icon={faHome} className="mr-1" />
       </Navbar.Brand>
       <Navbar.Toggle onClick={toggle} />
