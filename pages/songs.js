@@ -1,5 +1,6 @@
 import dbConnect from '~/middleware/dbConnect';
 import Song from '~/models/Song';
+import Alphabet from '~/components/Alphabet';
 import PropTypes from 'prop-types';
 import BootstrapTable from 'react-bootstrap-table-next';
 import filterFactory, { textFilter } from 'react-bootstrap-table2-filter';
@@ -10,7 +11,8 @@ const headerSortingStyle = { backgroundColor: '#c0c0c9' };
 const columns = [
   {
     dataField: 'song',
-    text: 'Song ID'
+    text: 'Song ID',
+    hidden: true
   },
   {
     dataField: 'title',
@@ -51,14 +53,7 @@ const columns = [
   {
     dataField: 'tag',
     text: 'Tag',
-    sort: true,
-    headerSortingStyle,
-    sortCaret: (order, column) => {
-      if (!order) return <span>&nbsp;&nbsp;&#9650;&#9660;</span>;
-      else if (order === 'asc') return <span>&nbsp;&nbsp;&#9660;</span>;
-      else if (order === 'desc') return <span>&nbsp;&nbsp;&#9650;</span>;
-      return null;
-    }
+    hidden: true
   }
 ];
 
@@ -71,16 +66,21 @@ const defaultSorted = [
 
 export default function SongPage({ songs }) {
   return (
-    <BootstrapTable
-      bootstrap4
-      striped
-      keyField="_id"
-      data={songs}
-      columns={columns}
-      filter={filterFactory()}
-      pagination={paginationFactory()}
-      defaultSorted={defaultSorted}
-    />
+    <>
+      <Alphabet></Alphabet>
+
+      <BootstrapTable
+        bootstrap4
+        classes="table-sm"
+        striped
+        keyField="_id"
+        data={songs}
+        columns={columns}
+        filter={filterFactory()}
+        pagination={paginationFactory()}
+        defaultSorted={defaultSorted}
+      />
+    </>
   );
 }
 

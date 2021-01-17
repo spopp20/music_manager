@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faHome } from '@fortawesome/free-solid-svg-icons';
 
@@ -8,18 +7,14 @@ import NavItem from 'react-bootstrap/NavItem';
 import NavLink from 'react-bootstrap/NavLink';
 
 const MainNavBar = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const toggle = () => setIsOpen(!isOpen);
-
   return (
     <Navbar bg="dark" variant="dark" expand="lg" sticky="top">
       <Navbar.Brand href="/" style={{ width: 30, marginTop: -8 }}>
         <FontAwesomeIcon icon={faHome} className="mr-1" />
       </Navbar.Brand>
-      <Navbar.Toggle onClick={toggle} />
-      <Navbar.Collapse isOpen={isOpen} navbar>
-        <Nav className="mr-auto" navbar>
+      <Navbar.Toggle aria-controls="basic-navbar-nav" />
+      <Navbar.Collapse id="basic-navbar-nav">
+        <Nav className="mr-auto">
           <NavItem>
             <NavLink href="/instruments">Instruments</NavLink>
           </NavItem>
