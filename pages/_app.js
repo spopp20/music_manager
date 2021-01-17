@@ -5,21 +5,15 @@ import MainNavBar from '~/components/MainNavBar';
 import Container from 'react-bootstrap/Container';
 import '~/styles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import PropTypes from 'prop-types';
 
 export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <CustomHeader />
       <Container fluid>
-        <MainNavBar {...pageProps} />
+        <MainNavBar />
         <Component {...pageProps} />
       </Container>
     </>
   );
 }
-
-MyApp.propTypes = {
-  Component: PropTypes.object.isOptional,
-  pageProps: PropTypes.object.isOptional
-};
