@@ -3,7 +3,8 @@ import Song from '~/models/Song';
 import Alphabet from '~/components/Alphabet';
 import PropTypes from 'prop-types';
 import BootstrapTable from 'react-bootstrap-table-next';
-import filterFactory, { textFilter } from 'react-bootstrap-table2-filter';
+import filterFactory, { textFilter, customFilter } from 'react-bootstrap-table2-filter';
+import ToolkitProvider, { Search } from 'react-bootstrap-table2-toolkit';
 import paginationFactory from 'react-bootstrap-table2-paginator';
 
 const headerSortingStyle = { backgroundColor: '#c0c0c9' };
@@ -66,21 +67,23 @@ const defaultSorted = [
 
 export default function SongPage({ songs }) {
   return (
-    <>
-      <Alphabet></Alphabet>
-
-      <BootstrapTable
-        bootstrap4
-        classes="table-sm"
-        striped
-        keyField="_id"
-        data={songs}
-        columns={columns}
-        filter={filterFactory()}
-        pagination={paginationFactory()}
-        defaultSorted={defaultSorted}
-      />
-    </>
+    <ToolkitProvider keyField="_id" data={songs} columns={columns} search>
+      {(props) => (
+        <div>
+          <Alphabet {...props.searchProps}></Alphabet>
+          <BootstrapTable
+            {...props.baseProps}
+            bootstrap4={true}
+            condensed={true}
+            defaultSorted={defaultSorted}
+            //filter={filterFactory()}
+            hover
+            striped
+            pagination={paginationFactory()}
+          />
+        </div>
+      )}
+    </ToolkitProvider>
   );
 }
 
