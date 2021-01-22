@@ -4,8 +4,6 @@ import ButtonToolbar from 'react-bootstrap/ButtonToolbar';
 const A = 65; // ASCII character code
 
 const Alphabet = (props) => {
-  let input;
-
   const handleClick = (e) => {
     props.onSearch(e.target.dataset.letter);
   };

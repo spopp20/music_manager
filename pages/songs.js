@@ -3,8 +3,7 @@ import Song from '~/models/Song';
 import Alphabet from '~/components/Alphabet';
 import PropTypes from 'prop-types';
 import BootstrapTable from 'react-bootstrap-table-next';
-import filterFactory, { textFilter, customFilter } from 'react-bootstrap-table2-filter';
-import ToolkitProvider, { Search } from 'react-bootstrap-table2-toolkit';
+import ToolkitProvider from 'react-bootstrap-table2-toolkit';
 import paginationFactory from 'react-bootstrap-table2-paginator';
 
 const headerSortingStyle = { backgroundColor: '#c0c0c9' };
@@ -66,8 +65,31 @@ const defaultSorted = [
 ];
 
 export default function SongPage({ songs }) {
+  const SEARCH_ON_COLUMNS = ['title'];
+
+  const capitalize = (s) => {
+    if (typeof s !== 'string') return '';
+    return s.charAt(0).toUpperCase() + s.slice(1);
+  };
+  function onColumnMatch({ searchText, value, column, row }) {
+    // implement your custom match logic on every cell value
+    if (!SEARCH_ON_COLUMNS.includes(column.dataField)) {
+      return false;
+    }
+
+    if (capitalize(value).startsWith(capitalize(searchText))) {
+      return true;
+    }
+    return false;
+  }
   return (
-    <ToolkitProvider keyField="_id" data={songs} columns={columns} search>
+    <ToolkitProvider
+      keyField="_id"
+      data={songs}
+      columns={columns}
+      search={{
+        onColumnMatch
+      }}>
       {(props) => (
         <div>
           <Alphabet {...props.searchProps}></Alphabet>
@@ -76,7 +98,6 @@ export default function SongPage({ songs }) {
             bootstrap4={true}
             condensed={true}
             defaultSorted={defaultSorted}
-            //filter={filterFactory()}
             hover
             striped
             pagination={paginationFactory()}
@@ -88,7 +109,9 @@ export default function SongPage({ songs }) {
 }
 
 SongPage.propTypes = {
-  songs: PropTypes.array.isRequired
+  songs: PropTypes.array.isRequired,
+  baseProps: PropTypes.object,
+  searchProps: PropTypes.object
 };
 
 /* Retrieves songs collection data from mongodb database */
