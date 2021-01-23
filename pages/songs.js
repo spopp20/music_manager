@@ -1,6 +1,7 @@
 import dbConnect from '~/middleware/dbConnect';
 import Song from '~/models/Song';
-import Alphabet from '~/components/Alphabet';
+import AlphabetSearch from '~/components/AlphabetSearch';
+import ExportCSVButton from '~/components/ExportCSVButton';
 import PropTypes from 'prop-types';
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider from 'react-bootstrap-table2-toolkit';
@@ -87,12 +88,13 @@ export default function SongPage({ songs }) {
       keyField="_id"
       data={songs}
       columns={columns}
+      exportCSV={true}
       search={{
         onColumnMatch
       }}>
       {(props) => (
         <div>
-          <Alphabet {...props.searchProps}></Alphabet>
+          <AlphabetSearch {...props.searchProps}></AlphabetSearch>
           <BootstrapTable
             {...props.baseProps}
             bootstrap4={true}
@@ -102,6 +104,7 @@ export default function SongPage({ songs }) {
             striped
             pagination={paginationFactory()}
           />
+          <ExportCSVButton {...props.csvProps}>Download Spreadsheet</ExportCSVButton>
         </div>
       )}
     </ToolkitProvider>
@@ -109,9 +112,10 @@ export default function SongPage({ songs }) {
 }
 
 SongPage.propTypes = {
-  songs: PropTypes.array.isRequired,
   baseProps: PropTypes.object,
-  searchProps: PropTypes.object
+  csvProps: PropTypes.object,
+  searchProps: PropTypes.object,
+  songs: PropTypes.array.isRequired
 };
 
 /* Retrieves songs collection data from mongodb database */

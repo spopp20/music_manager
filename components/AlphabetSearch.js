@@ -3,7 +3,7 @@ import ButtonToolbar from 'react-bootstrap/ButtonToolbar';
 
 const A = 65; // ASCII character code
 
-const Alphabet = (props) => {
+const AlphabetSearch = (props) => {
   const handleClick = (e) => {
     props.onSearch(e.target.dataset.letter);
   };
@@ -12,7 +12,7 @@ const Alphabet = (props) => {
   return (
     <ButtonToolbar>
       {letters.map((letter) => (
-        <Button key={letter} data-letter={letter} onClick={handleClick} size="sm">
+        <Button variant="info" key={letter} data-letter={letter} onClick={handleClick} size="sm">
           {letter}
         </Button>
       ))}
@@ -20,4 +20,4 @@ const Alphabet = (props) => {
   );
 };
 
-export default Alphabet;
+export default AlphabetSearch;
