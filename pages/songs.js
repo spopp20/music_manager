@@ -20,10 +20,11 @@ const columns = [
     text: 'Title',
     sort: true,
     headerSortingStyle,
-    sortCaret: (order, column) => {
-      if (!order) return <span>&nbsp;&nbsp;&#9650;&#9660;</span>;
-      else if (order === 'asc') return <span>&nbsp;&nbsp;&#9660;</span>;
-      else if (order === 'desc') return <span>&nbsp;&nbsp;&#9650;</span>;
+    // eslint-disable-next-line react/display-name
+    sortCaret: (order) => {
+      if (!order) return <span>&nbsp;&#9650;&#9660;</span>;
+      else if (order === 'asc') return <span>&nbsp;&#9660;</span>;
+      else if (order === 'desc') return <span>&nbsp;&#9650;</span>;
       return null;
     }
   },
@@ -32,10 +33,11 @@ const columns = [
     text: 'Key',
     sort: true,
     headerSortingStyle,
-    sortCaret: (order, column) => {
-      if (!order) return <span>&nbsp;&nbsp;&#9650;&#9660;</span>;
-      else if (order === 'asc') return <span>&nbsp;&nbsp;&#9660;</span>;
-      else if (order === 'desc') return <span>&nbsp;&nbsp;&#9650;</span>;
+    // eslint-disable-next-line react/display-name
+    sortCaret: (order) => {
+      if (!order) return <span>&nbsp;&#9650;&#9660;</span>;
+      else if (order === 'asc') return <span>&nbsp;&#9660;</span>;
+      else if (order === 'desc') return <span>&nbsp;&#9650;</span>;
       return null;
     }
   },
@@ -44,12 +46,17 @@ const columns = [
     text: 'Tempo',
     sort: true,
     headerSortingStyle,
-    sortCaret: (order, column) => {
-      if (!order) return <span>&nbsp;&nbsp;&#9650;&#9660;</span>;
-      else if (order === 'asc') return <span>&nbsp;&nbsp;&#9660;</span>;
-      else if (order === 'desc') return <span>&nbsp;&nbsp;&#9650;</span>;
+    // eslint-disable-next-line react/display-name
+    sortCaret: (order) => {
+      if (!order) return <span>&nbsp;&#9650;&#9660;</span>;
+      else if (order === 'asc') return <span>&nbsp;&#9660;</span>;
+      else if (order === 'desc') return <span>&nbsp;&#9650;</span>;
       return null;
     }
+  },
+  {
+    dataField: 'begins_with',
+    text: 'Words...'
   },
   {
     dataField: 'tag',
@@ -72,7 +79,7 @@ export default function SongPage({ songs }) {
     if (typeof s !== 'string') return '';
     return s.charAt(0).toUpperCase() + s.slice(1);
   };
-  function onColumnMatch({ searchText, value, column, row }) {
+  function onColumnMatch({ searchText, value, column }) {
     // implement your custom match logic on every cell value
     if (!SEARCH_ON_COLUMNS.includes(column.dataField)) {
       return false;
@@ -83,6 +90,13 @@ export default function SongPage({ songs }) {
     }
     return false;
   }
+
+  const rowEvents = {
+    onClick: (e, row) => {
+      console.log('Row ', row);
+    }
+  };
+
   return (
     <ToolkitProvider
       keyField="_id"
@@ -103,6 +117,7 @@ export default function SongPage({ songs }) {
             hover
             striped
             pagination={paginationFactory()}
+            rowEvents={rowEvents}
           />
           <ExportCSVButton {...props.csvProps}>Download Spreadsheet</ExportCSVButton>
         </div>

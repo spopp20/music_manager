@@ -2,22 +2,6 @@ import { useUser, fetcher } from '../lib/hooks';
 import useSWR from 'swr';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function UserList() {
-  const { data: { users } = {} } = useSWR('/api/users', fetcher);
-  return (
-    <>
-      <h2>All users</h2>
-      {!!users?.length && (
-        <ul>
-          {users.map((user) => (
-            <li key={user.username}>{JSON.stringify(user)}</li>
-          ))}
-        </ul>
-      )}
-    </>
-  );
-}
-
 export default function HomePage() {
   const [user] = useUser();
   return (
@@ -41,12 +25,6 @@ export default function HomePage() {
         <li>The user is removed and is no longer shown in All users section in Home</li>
       </ol>
       {user && <p>Currently logged in as: {JSON.stringify(user)}</p>}
-      <UserList />
-      <style jsx>{`
-        li {
-          margin-bottom: 0.5rem;
-        }
-      `}</style>
     </>
   );
 }

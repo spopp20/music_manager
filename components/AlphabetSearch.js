@@ -1,5 +1,6 @@
 import Button from 'react-bootstrap/Button';
 import ButtonToolbar from 'react-bootstrap/ButtonToolbar';
+import PropTypes from 'prop-types';
 
 const A = 65; // ASCII character code
 
@@ -18,6 +19,10 @@ const AlphabetSearch = (props) => {
       ))}
     </ButtonToolbar>
   );
+};
+
+AlphabetSearch.propTypes = {
+  onSearch: PropTypes.func.isRequired
 };
 
 export default AlphabetSearch;

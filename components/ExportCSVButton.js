@@ -1,4 +1,5 @@
 import Button from 'react-bootstrap/Button';
+import PropTypes from 'prop-types';
 
 const ExportCSVButton = (props) => {
   const handleClick = () => {
@@ -11,6 +12,10 @@ const ExportCSVButton = (props) => {
       </Button>
     </div>
   );
+};
+
+ExportCSVButton.propTypes = {
+  onExport: PropTypes.func.isRequired
 };
 
 export default ExportCSVButton;
