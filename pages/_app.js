@@ -4,8 +4,8 @@ import MainNavBar from '~/components/MainNavBar';
 import PropTypes from 'prop-types';
 
 import Container from 'react-bootstrap/Container';
-import '~/styles.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '~/styles.css';
 
 export default function MyApp({ Component, pageProps }) {
   return (
