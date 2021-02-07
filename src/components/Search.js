@@ -4,6 +4,7 @@ import { Nav, Form } from 'react-bootstrap';
 import useOnclickOutside from 'react-cool-onclickoutside';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
+//import styles from './Search.module.scss'
 
 const Search = () => {
   const [search, setSearch] = useState();

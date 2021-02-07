@@ -1,17 +1,21 @@
 import React from 'react';
-import CustomHeader from '~/components/Head';
-import MainNavBar from '~/components/MainNavBar';
+import CustomHeader from '@components/Head';
+import MainNavBar from '@components/MainNavBar';
 import PropTypes from 'prop-types';
 
 import Container from 'react-bootstrap/Container';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import '~/styles.css';
+
+// Application styles
+import '~/styles.scss';
+
+// Customize Bootstrap theme colors
+import '~/bootstrap-theme.scss';
 
 export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <CustomHeader />
-      <Container fluid>
+      <Container className="blue-gradient">
         <MainNavBar />
         <Component {...pageProps} />
       </Container>

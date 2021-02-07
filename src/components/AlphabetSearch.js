@@ -13,7 +13,7 @@ const AlphabetSearch = (props) => {
   return (
     <ButtonToolbar>
       {letters.map((letter) => (
-        <Button variant="info" key={letter} data-letter={letter} onClick={handleClick} size="sm">
+        <Button variant="info" key={letter} data-letter={letter} onClick={handleClick}>
           {letter}
         </Button>
       ))}

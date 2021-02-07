@@ -32,6 +32,7 @@
     "react-cool-onclickoutside": "^1.5.9",
     "react-dom": "^16.14.0",
     "react-fontawesome": "^1.7.1",
+    "sass": "^1.32.5",
     "swr": "^0.1.18"
   },
   "license": "MIT",

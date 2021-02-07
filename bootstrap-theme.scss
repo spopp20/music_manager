@@ -1,0 +1,24 @@
+// Custom Bootstrap Theme
+
+// Define Bootstrap variable overrides
+$blue: #032f5e;
+$lightblue: #22518b;
+$green: #05771f;
+$gray-800: #343a40;
+$orange: #e04307;
+$red: #cb0e08;
+$grey-100: #f8f9fa;
+$grey-200: #e9ecef;
+$grey-900: #212529;
+
+// Re-define bootstraps color scheme - primary, secondary ...
+$primary: $blue;
+$secondary: $gray-800;
+$success: $green;
+$info: $lightblue;
+$warning: $orange;
+$danger: $red;
+$light: $grey-100;
+$dark: $grey-900;
+
+@import 'bootstrap/scss/bootstrap';

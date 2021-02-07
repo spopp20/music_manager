@@ -1,6 +1,6 @@
 import dbConnect from '~/middleware/dbConnect';
 import Instrument from '~/models/Instrument';
-import InstrumentCard from '~/components/InstrumentCard';
+import InstrumentCard from '@components/InstrumentCard';
 
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
@@ -16,7 +16,7 @@ export default function InstrumentsPage({ instruments }) {
     );
   });
   return (
-    <Container fluid>
+    <Container className="frostedglass panel-gradient">
       <Row>{instrumentCards}</Row>
     </Container>
   );

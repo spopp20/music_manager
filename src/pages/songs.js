@@ -1,8 +1,9 @@
 import dbConnect from '~/middleware/dbConnect';
 import Song from '~/models/Song';
-import AlphabetSearch from '~/components/AlphabetSearch';
-import ExportCSVButton from '~/components/ExportCSVButton';
+import AlphabetSearch from '@components/AlphabetSearch';
+import ExportCSVButton from '@components/ExportCSVButton';
 import PropTypes from 'prop-types';
+import Container from 'react-bootstrap/Container';
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider from 'react-bootstrap-table2-toolkit';
 import paginationFactory from 'react-bootstrap-table2-paginator';
@@ -98,31 +99,33 @@ export default function SongPage({ songs }) {
   };
 
   return (
-    <ToolkitProvider
-      keyField="_id"
-      data={songs}
-      columns={columns}
-      exportCSV={true}
-      search={{
-        onColumnMatch
-      }}>
-      {(props) => (
-        <div>
-          <AlphabetSearch {...props.searchProps}></AlphabetSearch>
-          <BootstrapTable
-            {...props.baseProps}
-            bootstrap4={true}
-            condensed={true}
-            defaultSorted={defaultSorted}
-            hover
-            striped
-            pagination={paginationFactory()}
-            rowEvents={rowEvents}
-          />
-          <ExportCSVButton {...props.csvProps}>Download Spreadsheet</ExportCSVButton>
-        </div>
-      )}
-    </ToolkitProvider>
+    <Container className="panel-gradient">
+      <ToolkitProvider
+        keyField="_id"
+        data={songs}
+        columns={columns}
+        exportCSV={true}
+        search={{
+          onColumnMatch
+        }}>
+        {(props) => (
+          <div>
+            <AlphabetSearch {...props.searchProps}></AlphabetSearch>
+            <BootstrapTable
+              {...props.baseProps}
+              bootstrap4={true}
+              condensed={false}
+              defaultSorted={defaultSorted}
+              hover
+              striped
+              pagination={paginationFactory()}
+              rowEvents={rowEvents}
+            />
+            <ExportCSVButton {...props.csvProps}>Download Spreadsheet</ExportCSVButton>
+          </div>
+        )}
+      </ToolkitProvider>
+    </Container>
   );
 }
 

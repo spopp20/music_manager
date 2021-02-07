@@ -14,14 +14,15 @@ const InstrumentCard = ({ instrument }) => {
         <Card.Title className=" h2 mb-0">{instrument.name}</Card.Title>
         <Card.Text className=" mt-4">{instrument.folder}</Card.Text>
         <ButtonToolbar>
-          <Link href="instrument/[id]/edit" as={`instrument/${instrument._id}/edit`}>
-            <Button className=" m-2" color="primary">
-              Edit
-            </Button>
-          </Link>{' '}
           <Link href="instrument/[id]/view" as={`instrument/${instrument._id}/view`}>
-            <Button className=" m-2" color="secondary">
+            <Button className=" m-1" variant="primary">
               View
+            </Button>
+          </Link>
+
+          <Link href="instrument/[id]/edit" as={`instrument/${instrument._id}/edit`}>
+            <Button className=" m-1" color="secondary">
+              Edit
             </Button>
           </Link>
         </ButtonToolbar>
