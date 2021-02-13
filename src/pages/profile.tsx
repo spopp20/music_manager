@@ -15,12 +15,12 @@ function ProfileEdit() {
     e.preventDefault();
 
     const body = {
-      name: nameRef.current.value
+      name: nameRef.current.value,
     };
     const res = await fetch(`/api/user`, {
       method: 'PUT',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(body)
+      body: JSON.stringify(body),
     });
     const updatedUser = await res.json();
 
@@ -29,7 +29,7 @@ function ProfileEdit() {
 
   async function handleDeleteProfile() {
     const res = await fetch(`/api/user`, {
-      method: 'DELETE'
+      method: 'DELETE',
     });
 
     if (res.status === 204) {

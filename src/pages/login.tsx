@@ -12,12 +12,12 @@ export default function LoginPage() {
 
     const body = {
       username: e.currentTarget.username.value,
-      password: e.currentTarget.password.value
+      password: e.currentTarget.password.value,
     };
     const res = await fetch('/api/login', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(body)
+      body: JSON.stringify(body),
     });
 
     if (res.status === 200) {

@@ -4,7 +4,7 @@ import Instrument from '~/models/Instrument';
 export default async function handler(req, res) {
   const {
     query: { id },
-    method
+    method,
   } = req;
 
   await dbConnect();
@@ -26,7 +26,7 @@ export default async function handler(req, res) {
       try {
         const instrument = await Instrument.findByIdAndUpdate(id, req.body, {
           new: true,
-          runValidators: true
+          runValidators: true,
         });
         if (!instrument) {
           return res.status(400).json({ success: false });

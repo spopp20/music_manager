@@ -38,8 +38,8 @@ SongCard.propTypes = {
     arrangement: PropTypes.string.isOptional,
     begins_with: PropTypes.string.isOptional,
     start_key: PropTypes.string.isOptional,
-    title: PropTypes.string.isRequired
-  })
+    title: PropTypes.string.isRequired,
+  }),
 };
 
 export default SongCard;

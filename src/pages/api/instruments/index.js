@@ -18,7 +18,7 @@ export default async function handler(req, res) {
     case 'POST':
       try {
         const instrument = await Instrument.create(
-          req.body
+          req.body,
         ); /* create a new model in the database */
         res.status(201).json({ success: true, data: instrument });
       } catch (error) {

@@ -23,7 +23,7 @@ handler.use(auth).post((req, res) => {
     if (err) throw err;
     // Log the signed up user in
     res.status(201).json({
-      user
+      user,
     });
   });
 });

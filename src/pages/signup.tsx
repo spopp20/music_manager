@@ -13,7 +13,7 @@ export default function SignupPage() {
     const body = {
       username: e.currentTarget.username.value,
       password: e.currentTarget.password.value,
-      name: e.currentTarget.name.value
+      name: e.currentTarget.name.value,
     };
 
     if (body.password !== e.currentTarget.rpassword.value) {
@@ -24,7 +24,7 @@ export default function SignupPage() {
     const res = await fetch('/api/users', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(body)
+      body: JSON.stringify(body),
     });
 
     if (res.status === 201) {

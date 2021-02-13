@@ -12,9 +12,9 @@ const auth = nextConnect()
         httpOnly: true,
         secure: process.env.NODE_ENV === 'production',
         path: '/',
-        sameSite: 'lax'
-      }
-    })
+        sameSite: 'lax',
+      },
+    }),
   )
   .use((req, res, next) => {
     // Initialize mocked database

@@ -22,7 +22,7 @@ const AlphabetSearch = (props) => {
 };
 
 AlphabetSearch.propTypes = {
-  onSearch: PropTypes.func.isRequired
+  onSearch: PropTypes.func.isRequired,
 };
 
 export default AlphabetSearch;

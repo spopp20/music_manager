@@ -15,7 +15,7 @@ const ExportCSVButton = (props) => {
 };
 
 ExportCSVButton.propTypes = {
-  onExport: PropTypes.func.isRequired
+  onExport: PropTypes.func.isRequired,
 };
 
 export default ExportCSVButton;

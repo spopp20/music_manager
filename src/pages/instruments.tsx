@@ -23,7 +23,7 @@ export default function InstrumentsPage({ instruments }) {
 }
 
 InstrumentsPage.propTypes = {
-  instruments: PropTypes.array.isRequired
+  instruments: PropTypes.array.isRequired,
 };
 
 /* Retrieves instruments collection data from mongodb database */

@@ -35,8 +35,8 @@ InstrumentCard.propTypes = {
   instrument: PropTypes.shape({
     _id: PropTypes.string.isRequired,
     name: PropTypes.string.isRequired,
-    folder: PropTypes.string.isOptional
-  })
+    folder: PropTypes.string.isOptional,
+  }),
 };
 
 export default InstrumentCard;
