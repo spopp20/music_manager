@@ -1,120 +1,55 @@
-[
-    {
-        "name": "Alto flute",
-        "folder": "AltoFlute"
-    },
-    {
-        "name": "Alto saxophone",
-        "folder": "AltoSaxophone"
-    },
-    {
-        "name": "Alto trombone",
-        "folder": "AltoTrombone"
-    },
+[   
     {
         "name": "Alto voice",
         "folder": "AltoVoice"
-    },
-    {
-        "name": "Baritone saxophone",
-        "folder": "BaritoneSaxophone"
     },
     {
         "name": "Baritone voice",
         "folder": "BaritoneVoice"
     },
     {
-        "name": "Bass clarinet",
-        "folder": "BassClarinet"
-    },
-    {
-        "name": "Bass clarinet",
-        "folder": "BassClarinet"
-    },
-    {
-        "name": "Bass flute",
-        "folder": "BassFlute"
-    },
-    {
-        "name": "Bass saxophone",
-        "folder": "BassSaxophone"
-    },
-    {
-        "name": "Bass trombone",
-        "folder": "BassTrombone"
+        "name": "Bass",
+        "folder": "Bass"
     },
     {
         "name": "Bass voice",
         "folder": "BassVoice"
     },
     {
-        "name": "Bassoon",
-        "folder": "Bassoon"
+        "name": "Choir",
+        "folder": "Choir"
     },
-
     {
         "name": "Cello",
         "folder": "Cello"
     },
     {
-        "name": "Clarinet in A",
-        "folder": "ClarinetInA"
-    },
-    {
-        "name": "Clarinet in B-flat",
-        "folder": "ClarinetInBFlat"
-    },
-    {
-        "name": "Clarinet in E-flat",
-        "folder": "ClarinetInEFlat"
+        "name": "Clarinet",
+        "folder": "Clarine"
     },
     {
         "name": "Congregation",
         "folder": "Congregation"
     },
     {
-        "name": "Contrabass",
-        "folder": "Contrabass"
-    },
-    {
-        "name": "Contrassbass clarinet",
-        "folder": "ContrassbassClarinet"
-    },
-    {
-        "name": "Contrabass flute",
-        "folder": "ContrabassFlute"
-    },
-    {
-        "name": "Contrabass saxophone",
-        "folder": "ContrabassSaxophone"
-    },
-    {
-        "name": "Contrabassoon",
-        "folder": "Contrabassoon"
-    },
-    {
-        "name": "Bass",
-        "folder": "BassVoice"
-    },
-    {
         "name": "Drums",
         "folder": "Drums"
     },
     {
-        "name": "English horn",
-        "folder": "EnglishHorn"
+        "name": "French horn1",
+        "folder": "FHorn1"
     },
     {
+        "name": "French horn2",
+        "folder": "FHorn2"
+    },
+    {
+        "name": "French horn3",
+        "folder": "FHorn3"
+    },
+    {   
         "name": "Flute",
         "folder": "Flute"
-    },
-    {
-        "name": "French horn",
-        "folder": "FrenchHorn"
-    },
-    {
-        "name": "Glockenspiel",
-        "folder": "Glockenspiel"
     },
     {
         "name": "Guitar",
@@ -123,14 +58,6 @@
     {
         "name": "Harp",
         "folder": "Harp"
-    },
-    {
-        "name": "Harpsichord",
-        "folder": "Harpsichord"
-    },
-    {
-        "name": "Marimba",
-        "folder": "Marimba"
     },
     {
         "name": "Mezzo-soprano voice",
@@ -153,40 +80,52 @@
         "folder": "Piccolo"
     },
     {
-        "name": "Sopranino saxophone.",
-        "folder": "SopraninoSaxophone."
-    },
-    {
-        "name": "Soprano saxophone",
-        "folder": "SopranoSaxophone"
+        "name": "Saxophone",
+        "folder": "Sax"
     },
     {
         "name": "Soprano voice",
         "folder": "SopranoVoice"
     },
     {
-        "name": "Tenor saxophone",
-        "folder": "TenorSaxophone"
+        "name": "Sousaphone",
+        "folder": "Sousaphone"
     },
     {
-        "name": "Tenor trombone",
-        "folder": "TenorTrombone"
+        "name": "Tenor saxophone",
+        "folder": "TenSax"
     },
     {
         "name": "Tenor voice",
         "folder": "TenorVoice"
     },
     {
-        "name": "Trumpet",
-        "folder": "Trumpet"
+        "name": "Trombone1",
+        "folder": "Tbone1"
+    },
+    {
+        "name": "Trombone2",
+        "folder": "Tbone2"
+    },
+    {
+        "name": "Trombone3",
+        "folder": "Tbone3"
+    }, 
+    {
+        "name": "Tenor saxophone",
+        "folder": "TenSax"
+    },
+    {
+        "name": "Trumpet1",
+        "folder": "Trump1"
+    },
+    {
+        "name": "Trumpet2",
+        "folder": "Trump2"
     },
     {
         "name": "Tuba",
         "folder": "Tuba"
-    },
-    {
-        "name": "Vibraphone",
-        "folder": "Vibraphone"
     },
     {
         "name": "Viola",
@@ -195,9 +134,5 @@
     {
         "name": "Violin",
         "folder": "Violin"
-    },
-    {
-        "name": "Xylphone",
-        "folder": "Xylphone"
     }
 ]

@@ -1,6 +1,8 @@
 //import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 //import { faHome } from '@fortawesome/free-solid-svg-icons';
 
+import { useRouter } from 'next/router';
+
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import NavItem from 'react-bootstrap/NavItem';
@@ -8,6 +10,8 @@ import NavLink from 'react-bootstrap/NavLink';
 import Search from '@components/Search';
 
 const MainNavBar = () => {
+  const router = useRouter();
+
   return (
     <Navbar collapseOnSelect bg="primary" variant="dark" expand="lg" sticky="top">
       <Navbar.Brand href="/">Music Manager</Navbar.Brand>
@@ -16,16 +20,29 @@ const MainNavBar = () => {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="align-items-end px-3">
           <NavItem>
-            <NavLink href="/instruments">Instruments</NavLink>
+            <NavLink
+              href="/instruments"
+              className={router.pathname == '/instruments' ? 'active' : ''}>
+              Instruments
+            </NavLink>
           </NavItem>
           <NavItem>
-            <NavLink href="/songs">Songs</NavLink>
+            <NavLink href="/songs" className={router.pathname == '/songs' ? 'active' : ''}>
+              Songs
+            </NavLink>
+          </NavItem>
+          <NavItem>
+            <NavLink href="/settings" className={router.pathname == '/settings' ? 'active' : ''}>
+              Settings
+            </NavLink>
           </NavItem>
           <Search />
         </Nav>
         <Nav className="ml-auto" navbar>
           <NavItem>
-            <NavLink href="/login">Login</NavLink>
+            <NavLink href="/login" className={router.pathname == '/login' ? 'active' : ''}>
+              Login
+            </NavLink>
           </NavItem>
         </Nav>
       </Navbar.Collapse>
