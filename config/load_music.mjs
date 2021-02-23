@@ -1,13 +1,31 @@
-// Purpose: Load MongoDb Collections from the files in this folder.
-// Usage after entry into this folder
+// Purpose: A more advanced database conversion script to load
+// the music database on a MongoDB server or on localhost. 
+// The ".mjs" extension of this file is used to let you know
+// to redirect this file into a mongo shell session.
 //
-// Open your mongo command line utillity and connect to your database
-// and pass the script into as a command line
+// Data Source: songs.json, scores.json, instruments.json
+//
+// 1. Change directory into this config folder
 //
 // example:
 // cd config
 //
-// mongo "mongodb+srv://cluster0.Use-Your-Cluster.mongodb.net/music" -u fakeuser load_mongodb.js
+// 2. Open a mongo shell connected to your database
+//
+// example:
+// mongo "mongodb+srv://localhost/musicdb" -u fakeuser < load_music.mjs
+// local example:
+// mongo
+// > create database music;
+// > quit();
+// mongo < load_music.mjs;
+
+use music;
+print("Running load_music.mjs");
+
+conn = new Mongo();
+db = conn.getDB("music");
+db.stats();
 
 // Delete your instruments collection - then load it with the json file contents
 db.instruments.drop();
@@ -21,6 +39,7 @@ var file2 = cat('./songs.json'); // file name
 var js2 = JSON.parse(file2); // convert string to JSON
 db.songs.insert(js2); //collection name
 db.songs.createIndex({'song': 1});
+
 
 db.scores.drop();
 var file3 = cat('./scores.json'); // file name

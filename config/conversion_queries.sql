@@ -34,7 +34,7 @@ FROM song;
 
 
 -- Get Song Scores
-SELECT id as song, 'Congregation' as instrument, words from song;
+SELECT id as song, 8 as instrument, words from song;
 
 
 
