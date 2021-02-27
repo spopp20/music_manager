@@ -7,7 +7,6 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import NavItem from 'react-bootstrap/NavItem';
 import NavLink from 'react-bootstrap/NavLink';
-import Search from '@components/Search';
 
 const MainNavBar = () => {
   const router = useRouter();
@@ -36,7 +35,6 @@ const MainNavBar = () => {
               Settings
             </NavLink>
           </NavItem>
-          <Search />
         </Nav>
         <Nav className="ml-auto" navbar>
           <NavItem>

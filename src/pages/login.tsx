@@ -1,3 +1,8 @@
+import Button from 'react-bootstrap/Button';
+import Container from 'react-bootstrap/Container';
+import Form from 'react-bootstrap/Form';
+import Jumbotron from 'react-bootstrap/Jumbotron';
+
 import { useState, useEffect } from 'react';
 import Router from 'next/router';
 import Link from 'next/link';
@@ -35,27 +40,29 @@ export default function LoginPage() {
   }, [user]);
 
   return (
-    <>
-      <h1>Login to Example</h1>
-      <p className="error">{errorMsg}</p>
-      <div className="form-container">
-        <form onSubmit={onSubmit}>
-          <label>
-            <span>Username</span>
-            <input type="text" name="username" required />
-          </label>
-          <label>
-            <span>Password</span>
-            <input type="password" name="password" required />
-          </label>
-          <div className="submit">
-            <button type="submit">Login</button>
-            <Link href="/signup">
-              <button>I do not have an account</button>
-            </Link>
-          </div>
-        </form>
-      </div>
-    </>
+    <Container className="panel-gradient">
+      <Jumbotron className="panel-gradient">
+        <h1>Login</h1>
+        <p className="error">{errorMsg}</p>
+      </Jumbotron>
+      <Form onSubmit={onSubmit}>
+        <Form.Group controlId="username">
+          <Form.Label>Username</Form.Label>
+          <Form.Control type="text" name="username" required />
+        </Form.Group>
+        <Form.Group controlId="password">
+          <Form.Label>Password</Form.Label>
+          <Form.Control type="password" name="password" required />
+        </Form.Group>
+        <Button className=" m-1" variant="primary" type="submit">
+          Login
+        </Button>
+        <Link href="/signup">
+          <Button className=" m-1" variant="secondary">
+            I do not have an account
+          </Button>
+        </Link>
+      </Form>
+    </Container>
   );
 }

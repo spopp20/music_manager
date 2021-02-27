@@ -2,7 +2,6 @@ import dbConnect from '~/middleware/dbConnect';
 import Song from '~/models/Song';
 import AlphabetSearch from '@components/AlphabetSearch';
 import ExportCSVButton from '@components/ExportCSVButton';
-import PropTypes from 'prop-types';
 import Container from 'react-bootstrap/Container';
 import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider from 'react-bootstrap-table2-toolkit';
@@ -80,6 +79,7 @@ export default function SongPage({ songs }) {
     if (typeof s !== 'string') return '';
     return s.charAt(0).toUpperCase() + s.slice(1);
   };
+
   function onColumnMatch({ searchText, value, column }) {
     // implement your custom match logic on every cell value
     if (!SEARCH_ON_COLUMNS.includes(column.dataField)) {
@@ -128,13 +128,6 @@ export default function SongPage({ songs }) {
     </Container>
   );
 }
-
-SongPage.propTypes = {
-  baseProps: PropTypes.object,
-  csvProps: PropTypes.object,
-  searchProps: PropTypes.object,
-  songs: PropTypes.array.isRequired,
-};
 
 /* Retrieves songs collection data from mongodb database */
 export async function getServerSideProps() {

@@ -1,3 +1,8 @@
+import Button from 'react-bootstrap/Button';
+import Container from 'react-bootstrap/Container';
+import Form from 'react-bootstrap/Form';
+import Jumbotron from 'react-bootstrap/Jumbotron';
+
 import { useState, useEffect } from 'react';
 import Router from 'next/router';
 import Link from 'next/link';
@@ -42,35 +47,37 @@ export default function SignupPage() {
   }, [user]);
 
   return (
-    <>
-      <h1>Sign up</h1>
-      {errorMsg && <p className="error">{errorMsg}</p>}
-      <div className="form-container">
-        <form onSubmit={onSubmit}>
-          <label>
-            <span>Username</span>
-            <input type="text" name="username" required />
-          </label>
-          <label>
-            <span>Password</span>
-            <input type="password" name="password" required />
-          </label>
-          <label>
-            <span>Repeat password</span>
-            <input type="password" name="rpassword" required />
-          </label>
-          <label>
-            <span>Name</span>
-            <input type="text" name="name" required />
-          </label>
-          <div className="submit">
-            <button type="submit">Sign up</button>
-            <Link href="/login">
-              <a>I already have an account</a>
-            </Link>
-          </div>
-        </form>
-      </div>
-    </>
+    <Container className="panel-gradient">
+      <Jumbotron className="panel-gradient">
+        <h1>Sign up</h1>
+        <p className="error">{errorMsg}</p>
+      </Jumbotron>
+      <Form onSubmit={onSubmit}>
+        <Form.Group controlId="username">
+          <Form.Label>Username</Form.Label>
+          <Form.Control type="text" name="username" required />
+        </Form.Group>
+        <Form.Group controlId="password">
+          <Form.Label>Password</Form.Label>
+          <Form.Control type="password" name="password" required />
+        </Form.Group>
+        <Form.Group controlId="rpassword">
+          <Form.Label>Repeat password</Form.Label>
+          <Form.Control type="password" name="rpassword" required />
+        </Form.Group>
+        <Form.Group controlId="name">
+          <Form.Label>Name</Form.Label>
+          <Form.Control type="text" name="name" required />
+        </Form.Group>
+        <Button className=" m-1" variant="primary" type="submit">
+          Sign up
+        </Button>
+        <Link href="/login">
+          <Button className=" m-1" variant="secondary">
+            I already have an account
+          </Button>
+        </Link>
+      </Form>
+    </Container>
   );
 }

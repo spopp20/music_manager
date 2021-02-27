@@ -5,7 +5,6 @@ import InstrumentCard from '@components/InstrumentCard';
 import Container from 'react-bootstrap/Container';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
-import PropTypes from 'prop-types';
 
 export default function InstrumentsPage({ instruments }) {
   let instrumentCards = instruments.map((instrument) => {
@@ -21,10 +20,6 @@ export default function InstrumentsPage({ instruments }) {
     </Container>
   );
 }
-
-InstrumentsPage.propTypes = {
-  instruments: PropTypes.array.isRequired,
-};
 
 /* Retrieves instruments collection data from mongodb database */
 export async function getServerSideProps() {
