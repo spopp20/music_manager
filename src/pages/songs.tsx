@@ -7,6 +7,8 @@ import BootstrapTable from 'react-bootstrap-table-next';
 import ToolkitProvider from 'react-bootstrap-table2-toolkit';
 import paginationFactory from 'react-bootstrap-table2-paginator';
 
+import { useRouter } from 'next/router';
+
 const headerSortingStyle = { backgroundColor: '#c0c0c9' };
 
 const columns = [
@@ -73,6 +75,7 @@ const defaultSorted = [
 ];
 
 export default function SongPage({ songs }) {
+  const router = useRouter();
   const SEARCH_ON_COLUMNS = ['title'];
 
   const capitalize = (s) => {
@@ -92,9 +95,14 @@ export default function SongPage({ songs }) {
     return false;
   }
 
+  // Show the Song Details, Or Skip Song Details and Show the Score
   const rowEvents = {
     onClick: (e, row) => {
       console.log('Row ', row);
+
+      // TODO Display the song Details Page
+      const href = `score/${row.song}/8/details`;
+      router.push(href, undefined, { shallow: true });
     },
   };
 

@@ -110,10 +110,6 @@ This example creates a basic [CRUD](https://en.wikipedia.org/wiki/Create,_read,_
 
 The example shows how to do a sign up, login, logout, and account deactivation. It utilizes the cache [SWR](https://swr.now.sh/) to fetch the API.
 
-For demo purpose, the users database is stored in the cookie session. You need to replace the cookie storage with an actual database to store users in [lib/db.js](lib/db.js).
-
-In production, you must use a password hashing library, such as [argon2](https://github.com/ranisalt/node-argon2) or [bcrypt](https://www.npmjs.com/package/bcrypt).
-
 ## Deploy your own
 
 Deploy using [Vercel](https://vercel.com):
@@ -145,9 +141,4 @@ Use the browser default GET function locally retrieve raw JSON results.
 
 [api/songs](http://localhost:3000/api/songs)
 
-## Added react-bootstrap-table2
-
-```bash
-npm install react-bootstrap-table-next
-npm install react-bootstrap-table2-filter
-```
+[api/scores](http://localhost:3000/api/scores)

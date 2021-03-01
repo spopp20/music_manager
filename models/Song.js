@@ -27,8 +27,50 @@ const SongSchema = new mongoose.Schema(
       type: String,
       maxlength: [60, 'Begins with cannot be more than 60 characters'],
     },
+    begins_spanish: {
+      /* The starting words in spanish for this Song */
+      type: String,
+      maxlength: [60, 'Begins spanish cannot be more than 60 characters'],
+    },
+    tag: {
+      /* The Song collection it belongs to */
+      type: String,
+      maxlength: [20, 'Tag cannot be more than 20 characters'],
+    },
+    note: {
+      /* The starting words in spanish for this Song */
+      type: String,
+      maxlength: [40, 'Note cannot be more than 40 characters'],
+    },
   },
   { timestamps: true },
 );
+
+SongSchema.methods.findByTitle = function (title, callback) {
+  return this.find(
+    {
+      title: new RegExp(title, 'i'),
+    },
+    callback,
+  );
+};
+
+SongSchema.methods.findByTitleStart = function (start, callback) {
+  return this.find(
+    {
+      title: new RegExp('^' + start, 'i'),
+    },
+    callback,
+  );
+};
+
+SongSchema.methods.findByTag = function (tag, callback) {
+  return this.find(
+    {
+      tag: new RegExp(tag, 'i'),
+    },
+    callback,
+  );
+};
 
 export default mongoose.models.Song || mongoose.model('Song', SongSchema);

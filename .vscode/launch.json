@@ -9,8 +9,8 @@
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}",
-      "runtimeExecutable": "yarn",
-      "runtimeArgs": ["run", "debug", "dev", "test/integration/basic"],
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
       "skipFiles": ["<node_internals>/**"],
       "port": 9229
     },
@@ -19,19 +19,8 @@
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}",
-      "runtimeExecutable": "yarn",
-      "runtimeArgs": ["run", "debug", "build", "test/integration/basic"],
-      "skipFiles": ["<node_internals>/**"],
-      "port": 9229,
-      "outFiles": ["${workspaceFolder}/packages/next/dist/**/*"]
-    },
-    {
-      "name": "Launch app build trace",
-      "type": "node",
-      "request": "launch",
-      "cwd": "${workspaceFolder}",
-      "runtimeExecutable": "yarn",
-      "runtimeArgs": ["run", "trace-debug", "build", "test/integration/basic"],
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "build"],
       "skipFiles": ["<node_internals>/**"],
       "port": 9229,
       "outFiles": ["${workspaceFolder}/packages/next/dist/**/*"]
@@ -41,8 +30,8 @@
       "type": "node",
       "request": "launch",
       "cwd": "${workspaceFolder}",
-      "runtimeExecutable": "yarn",
-      "runtimeArgs": ["run", "debug", "start", "test/integration/basic"],
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "start"],
       "skipFiles": ["<node_internals>/**"],
       "port": 9229
     },
@@ -53,16 +42,6 @@
       "port": 9229,
       "skipFiles": ["<node_internals>/**"],
       "outFiles": ["${workspaceFolder}/packages/next/dist/**/*"]
-    },
-    {
-      "name": "Launch this example",
-      "type": "node",
-      "request": "launch",
-      "cwd": "${workspaceFolder}",
-      "runtimeExecutable": "yarn",
-      "runtimeArgs": ["run", "debug", "dev", "${fileDirname}"],
-      "skipFiles": ["<node_internals>/**"],
-      "port": 9229
     }
   ]
 }

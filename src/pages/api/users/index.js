@@ -1,6 +1,6 @@
 import dbConnect from '~/middleware/dbConnect';
 import User from '~/models/User';
-import * as argon2 from 'argon2';
+//import * as argon2 from 'argon2';
 
 export default async function handler(req, res) {
   const { method } = req;
@@ -13,8 +13,8 @@ export default async function handler(req, res) {
         var user = await User.create(req.body);
 
         // Security-wise, you must hash the password before saving it
-        const hashedPass = argon2.hash(user.password);
-        user.password = hashedPass;
+        // const hashedPass = argon2.hash(user.password);
+        // user.password = hashedPass;
 
         /* create a new model in the database */
         res.status(201).json({ success: true, data: user });
